@@ -15,11 +15,11 @@ E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55469
+61600
 Successfully changed project path to: E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi
 E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 26.39 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 23.71 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
 [Subsystems] Discovering subsystems at path D:/Program/Unity/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
@@ -35,55 +35,22 @@ Initialize mono
 Mono path[0] = 'D:/Program/Unity/2020.3.2f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Program/Unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program/Unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56832
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56540
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program/Unity/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001032 seconds.
+Registered in 0.000880 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 23.29 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 26.02 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.340 seconds
+- Completed reload, in  1.450 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000498 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.801 seconds
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.3 MB.
-System memory in use after: 57.4 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1561.
-Total: 1.870700 ms (FindLiveObjects: 0.140900 ms CreateObjectMapping: 0.045600 ms MarkObjects: 1.616200 ms  DeleteObjects: 0.067000 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scripts
-  artifactKey: Guid(9c0e09f396f6b1a449b404ab788a0a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(9c0e09f396f6b1a449b404ab788a0a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28d69fdeae493c8927a9e832217db719') in 0.089086 seconds
-  Import took 0.092322 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000500 seconds.
+Registered in 0.000555 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
@@ -92,21 +59,228 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.763 seconds
+- Completed reload, in  0.829 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.3 MB.
-System memory in use after: 57.4 MB.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.2 MB.
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1564.
-Total: 2.062800 ms (FindLiveObjects: 0.516600 ms CreateObjectMapping: 0.065200 ms MarkObjects: 1.449800 ms  DeleteObjects: 0.030300 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1561.
+Total: 2.096700 ms (FindLiveObjects: 0.393800 ms CreateObjectMapping: 0.077300 ms MarkObjects: 1.556800 ms  DeleteObjects: 0.067400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Image/Stanok_Fon.PNG
+  artifactKey: Guid(90a1376477854f645adea1bedb69c241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Image/Stanok_Fon.PNG using Guid(90a1376477854f645adea1bedb69c241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ef6dd5af475b35be465205b7048990') in 0.358590 seconds
+  Import took 0.360700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.157423 seconds.
+  path: Assets/Scenes/StanokScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StanokScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2d0d776a0591e5cacd1e2d554b9270') in 0.010573 seconds
+  Import took 0.012657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.057514 seconds.
+  path: Assets/obj/Materials/Komnata_initialShadingGroup_BaseColor.mat
+  artifactKey: Guid(fe065f339d7eab8419f5770f4d2c21d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Materials/Komnata_initialShadingGroup_BaseColor.mat using Guid(fe065f339d7eab8419f5770f4d2c21d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e9961cd208d23787a01a50b01fe4a8') in 0.062342 seconds
+  Import took 0.064520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/obj/Materials/Object@Selected.mat
+  artifactKey: Guid(706eb7c41b85df743a35d2a103aaaaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Materials/Object@Selected.mat using Guid(706eb7c41b85df743a35d2a103aaaaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca2d6e78562cb4d95c83cf192ee8ff47') in 0.149922 seconds
+  Import took 0.151746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/obj/Materials/Komnata_initialShadingGroup_Roughness.mat
+  artifactKey: Guid(92ae7735513a98440b333dfca45e3570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Materials/Komnata_initialShadingGroup_Roughness.mat using Guid(92ae7735513a98440b333dfca45e3570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe413f44ce6ebd9b4f37ce4c06a48b0c') in 0.033683 seconds
+  Import took 0.035526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.730318 seconds.
+  path: Assets/Scripts/Selecter.cs
+  artifactKey: Guid(05522136b585e8f45975ea32e4ec03b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Selecter.cs using Guid(05522136b585e8f45975ea32e4ec03b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd8bbf5defeb000d4cfe70564515f44d') in 0.286636 seconds
+  Import took 0.289164 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000510 seconds.
+Registered in 0.000542 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.784 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.5 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1608.
+Total: 1.539300 ms (FindLiveObjects: 0.176400 ms CreateObjectMapping: 0.036700 ms MarkObjects: 1.312800 ms  DeleteObjects: 0.012500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000617 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.864 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.5 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 2.011400 ms (FindLiveObjects: 0.130900 ms CreateObjectMapping: 0.035900 ms MarkObjects: 1.813300 ms  DeleteObjects: 0.029800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 485.855029 seconds.
+  path: Assets/Scripts/Selecter.cs
+  artifactKey: Guid(05522136b585e8f45975ea32e4ec03b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Selecter.cs using Guid(05522136b585e8f45975ea32e4ec03b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda72f03528338d0627a75e8a1a05dfe') in 0.011387 seconds
+  Import took 0.013370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.537831 seconds.
+  path: Assets/obj/stanok/Komnata/Komnata.mat
+  artifactKey: Guid(e45a92b2c413cfc4c87b694bccc0a6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Komnata/Komnata.mat using Guid(e45a92b2c413cfc4c87b694bccc0a6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '617e29b10d0ba8112bf4f0f952314a06') in 0.427139 seconds
+  Import took 0.430961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/obj/stanok/Testik6/Teestik6.mat
+  artifactKey: Guid(29fb5011c5aede24488878899db555a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik6/Teestik6.mat using Guid(29fb5011c5aede24488878899db555a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2d5213aea329f5ed55c724c1b0cacc') in 0.020323 seconds
+  Import took 0.022399 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000502 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.771 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.5 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1615.
+Total: 1.484300 ms (FindLiveObjects: 0.119900 ms CreateObjectMapping: 0.037800 ms MarkObjects: 1.312700 ms  DeleteObjects: 0.012600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.660068 seconds.
+  path: Assets/obj/stanok/Testik2
+  artifactKey: Guid(541dc105d18ef024688b544d07996f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik2 using Guid(541dc105d18ef024688b544d07996f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c47d7b54fdd2ad79f8da924a70d4166') in 0.017617 seconds
+  Import took 0.020027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.557447 seconds.
+  path: Assets/obj/stanok/Testik2/Testik2.mat
+  artifactKey: Guid(e5d08f96bfa35db4eaaaac71e5277d8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik2/Testik2.mat using Guid(e5d08f96bfa35db4eaaaac71e5277d8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88e80e8c0878d9a9bab4c12861fbecfd') in 0.059306 seconds
+  Import took 0.061919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/obj/stanok/Testik2/Testik2_initialShadingGroup_Normal.png
+  artifactKey: Guid(9b3cffadce2d58f499e0155c19e77654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik2/Testik2_initialShadingGroup_Normal.png using Guid(9b3cffadce2d58f499e0155c19e77654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b45e4829ea07bbc3b6ab80106263662') in 0.050987 seconds
+  Import took 0.053015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/obj/stanok/Testik2/Testik2_initialShadingGroup_Height.png
+  artifactKey: Guid(30567098de97cfc4eb7690a37e20d594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik2/Testik2_initialShadingGroup_Height.png using Guid(30567098de97cfc4eb7690a37e20d594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e76cbf4dd4e0feb9956965b600eadd5') in 0.038327 seconds
+  Import took 0.041314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/obj/stanok/Testik2/Testik2_initialShadingGroup_Metallic.png
+  artifactKey: Guid(0e027b30f7d85e744967eb34aa47c5ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik2/Testik2_initialShadingGroup_Metallic.png using Guid(0e027b30f7d85e744967eb34aa47c5ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d91537dcedcead1fe3ac76101d17723') in 0.030785 seconds
+  Import took 0.032604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/obj/stanok/Testik2/Testik2_initialShadingGroup_BaseColor.png
+  artifactKey: Guid(babe3161a8667c94abfc70ac789c243f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik2/Testik2_initialShadingGroup_BaseColor.png using Guid(babe3161a8667c94abfc70ac789c243f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba3c9513331ab4acc2adb477a0117d74') in 0.014345 seconds
+  Import took 0.017226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/obj/stanok/Testik2/Testik2_initialShadingGroup_Roughness.png
+  artifactKey: Guid(5455d649f09c2bf458a4933fd3a83f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik2/Testik2_initialShadingGroup_Roughness.png using Guid(5455d649f09c2bf458a4933fd3a83f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '700ddf577d8447f56cefa23d2b0d467d') in 0.048355 seconds
+  Import took 0.050361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/obj/stanok/Testik2/Testik2_initialShadingGroup_BaseColor.png
+  artifactKey: Guid(babe3161a8667c94abfc70ac789c243f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik2/Testik2_initialShadingGroup_BaseColor.png using Guid(babe3161a8667c94abfc70ac789c243f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba3c9513331ab4acc2adb477a0117d74') in 0.009823 seconds
+  Import took 0.012238 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000570 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
@@ -117,13 +291,804 @@ RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 - Completed reload, in  0.751 seconds
 Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1619.
+Total: 1.612500 ms (FindLiveObjects: 0.118000 ms CreateObjectMapping: 0.031100 ms MarkObjects: 1.447600 ms  DeleteObjects: 0.014800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000753 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.764 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1622.
+Total: 1.809200 ms (FindLiveObjects: 0.143800 ms CreateObjectMapping: 0.047000 ms MarkObjects: 1.603900 ms  DeleteObjects: 0.013500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4224.423947 seconds.
+  path: Assets/Scripts/DisplayUI.cs
+  artifactKey: Guid(e74eee9cd564746439097ea74c51ecef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DisplayUI.cs using Guid(e74eee9cd564746439097ea74c51ecef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9054e9e21305c9c7e46a20e1cb9b8d07') in 0.022055 seconds
+  Import took 0.050323 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000565 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.953 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1626.
+Total: 1.536900 ms (FindLiveObjects: 0.162000 ms CreateObjectMapping: 0.044000 ms MarkObjects: 1.314500 ms  DeleteObjects: 0.015100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000769 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.777 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1629.
+Total: 1.958500 ms (FindLiveObjects: 0.184400 ms CreateObjectMapping: 0.050500 ms MarkObjects: 1.704600 ms  DeleteObjects: 0.017800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001410 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.142 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1632.
+Total: 2.602500 ms (FindLiveObjects: 0.143700 ms CreateObjectMapping: 0.043200 ms MarkObjects: 2.397400 ms  DeleteObjects: 0.016800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4788.433614 seconds.
+  path: Assets/obj/stanok/Testik3
+  artifactKey: Guid(2fa21020431dace4fa820ce5baeb4bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik3 using Guid(2fa21020431dace4fa820ce5baeb4bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f1460f1ba4758d90ccd1ed3531f9a8e') in 0.013516 seconds
+  Import took 0.016043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076734 seconds.
+  path: Assets/obj/stanok/Testik3/Testik3.mat
+  artifactKey: Guid(7664d23a8174f674f846ee53d5b5070c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik3/Testik3.mat using Guid(7664d23a8174f674f846ee53d5b5070c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e3e3c63cd0c27ccd57225a6d84924c9') in 0.073920 seconds
+  Import took 0.076226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/obj/stanok/Testik3/Testik3_initialShadingGroup_Roughness.png
+  artifactKey: Guid(264175267f36fd44dbf2e4b60c36332b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik3/Testik3_initialShadingGroup_Roughness.png using Guid(264175267f36fd44dbf2e4b60c36332b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dbb9b300e00bdfcb8cd972fc36519a8') in 0.046035 seconds
+  Import took 0.048083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/obj/stanok/Testik3/Testik3_initialShadingGroup_Metallic.png
+  artifactKey: Guid(e285d24f4cd28044e8326adc55859937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik3/Testik3_initialShadingGroup_Metallic.png using Guid(e285d24f4cd28044e8326adc55859937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63c8a73363a70e0fd5502970d0b5fbdd') in 0.046872 seconds
+  Import took 0.048635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/obj/stanok/Testik3/Testik3_initialShadingGroup_BaseColor.png
+  artifactKey: Guid(ec0267efbd370af4cb88cb5da2207c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik3/Testik3_initialShadingGroup_BaseColor.png using Guid(ec0267efbd370af4cb88cb5da2207c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21f8de42baeab1798f09021feaa8c5c1') in 0.017728 seconds
+  Import took 0.019739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/obj/stanok/Testik3/Testik3_initialShadingGroup_Height.png
+  artifactKey: Guid(089b7870e3d849f48beeafb3d7edb6f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik3/Testik3_initialShadingGroup_Height.png using Guid(089b7870e3d849f48beeafb3d7edb6f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5286ac5826f36bb3204be05846e72fea') in 0.039922 seconds
+  Import took 0.042488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/obj/stanok/Testik3/Testik3_initialShadingGroup_BaseColor.png
+  artifactKey: Guid(ec0267efbd370af4cb88cb5da2207c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik3/Testik3_initialShadingGroup_BaseColor.png using Guid(ec0267efbd370af4cb88cb5da2207c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21f8de42baeab1798f09021feaa8c5c1') in 0.021920 seconds
+  Import took 0.024144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/obj/stanok/Testik3/Testik3_initialShadingGroup_Normal.png
+  artifactKey: Guid(ee4a4e07a99ef974287cb511c054e55b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik3/Testik3_initialShadingGroup_Normal.png using Guid(ee4a4e07a99ef974287cb511c054e55b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1984387fcf206cd338c0b2a4ee6cedd8') in 0.025593 seconds
+  Import took 0.028993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.741353 seconds.
+  path: Assets/obj/stanok/Testik4
+  artifactKey: Guid(0d01551973804c6448633984a407c988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik4 using Guid(0d01551973804c6448633984a407c988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0f64761e6b69dc312acf0ee828f39a9') in 0.012519 seconds
+  Import took 0.014534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088545 seconds.
+  path: Assets/obj/stanok/Testik4/Testik4.mat
+  artifactKey: Guid(d46fc3327ee613f4794570b0de2013ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik4/Testik4.mat using Guid(d46fc3327ee613f4794570b0de2013ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fa839ebf9de1a39cd85664aa8efecd1') in 0.020425 seconds
+  Import took 0.022945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/obj/stanok/Testik4/Testik4_initialShadingGroup_Metallic.png
+  artifactKey: Guid(9de1ecd61acfc5746b966a6c74d1d0c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik4/Testik4_initialShadingGroup_Metallic.png using Guid(9de1ecd61acfc5746b966a6c74d1d0c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da4d4101be84d1a3fa45e6e71a59b512') in 0.021658 seconds
+  Import took 0.023970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/obj/stanok/Testik4/Testik4_initialShadingGroup_Height.png
+  artifactKey: Guid(3fa6f60704f099d4db22be2698f39900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik4/Testik4_initialShadingGroup_Height.png using Guid(3fa6f60704f099d4db22be2698f39900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ff511606069927f4a99f48ac8fff30d') in 0.034700 seconds
+  Import took 0.036776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/obj/stanok/Testik4/Testik4_initialShadingGroup_Normal.png
+  artifactKey: Guid(dc9881c06011ec34aa833893e68812ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik4/Testik4_initialShadingGroup_Normal.png using Guid(dc9881c06011ec34aa833893e68812ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b03f84760ce22fc859f953b864ec711a') in 0.023177 seconds
+  Import took 0.024919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/obj/stanok/Testik4/Testik4_initialShadingGroup_BaseColor.png
+  artifactKey: Guid(628b6317187f48741bd594beed89e65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik4/Testik4_initialShadingGroup_BaseColor.png using Guid(628b6317187f48741bd594beed89e65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '719f07f3e641f395aad48f09343055dc') in 0.011753 seconds
+  Import took 0.013723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/obj/stanok/Testik4/Testik4_initialShadingGroup_Roughness.png
+  artifactKey: Guid(15b3a2b2243f1c34985d897b170f85cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik4/Testik4_initialShadingGroup_Roughness.png using Guid(15b3a2b2243f1c34985d897b170f85cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeb32072c71936daa05aee69c171d1ce') in 0.053124 seconds
+  Import took 0.055231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.035928 seconds.
+  path: Assets/obj/stanok/Testik5
+  artifactKey: Guid(07f74be80deed6642aaa080f2e141f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik5 using Guid(07f74be80deed6642aaa080f2e141f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11fb931e1a15d809de4cb0d188fd3988') in 0.011529 seconds
+  Import took 0.014583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.074809 seconds.
+  path: Assets/obj/stanok/Testik5/Testik5.mat
+  artifactKey: Guid(d998c9d35c33b094797e17d992eb9dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik5/Testik5.mat using Guid(d998c9d35c33b094797e17d992eb9dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dfe8432710814e7a1a567261259d172') in 0.011094 seconds
+  Import took 0.013000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/obj/stanok/Testik5/Testik5_initialShadingGroup_BaseColor.png
+  artifactKey: Guid(149f789a62f5fa14f9cedc2259f75cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik5/Testik5_initialShadingGroup_BaseColor.png using Guid(149f789a62f5fa14f9cedc2259f75cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84cce64c00b7b33e469210d226fdd60a') in 0.012439 seconds
+  Import took 0.014380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/obj/stanok/Testik5/Testik5_initialShadingGroup_Metallic.png
+  artifactKey: Guid(9a8328abe8805bd46aa8dcceb7dd05f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik5/Testik5_initialShadingGroup_Metallic.png using Guid(9a8328abe8805bd46aa8dcceb7dd05f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4215dce5c192be577d371276789b5520') in 0.012431 seconds
+  Import took 0.015398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/obj/stanok/Testik5/Testik5_initialShadingGroup_Roughness.png
+  artifactKey: Guid(7e677501d2c82774396992cf909c1d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik5/Testik5_initialShadingGroup_Roughness.png using Guid(7e677501d2c82774396992cf909c1d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b6df69b7919b5a618596ac8ebea49eb') in 0.033971 seconds
+  Import took 0.036228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/obj/stanok/Testik5/Testik5_initialShadingGroup_Height.png
+  artifactKey: Guid(400cb353b3e3e2445bfb52f0939a3f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik5/Testik5_initialShadingGroup_Height.png using Guid(400cb353b3e3e2445bfb52f0939a3f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcbf9486a18778e78058c09c509b99d2') in 0.047261 seconds
+  Import took 0.049053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/obj/stanok/Testik5/Testik5_initialShadingGroup_Normal.png
+  artifactKey: Guid(671711ce3852dea488f5818ac0022f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik5/Testik5_initialShadingGroup_Normal.png using Guid(671711ce3852dea488f5818ac0022f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aaaad771a15c6aa4b8f1571b08301e3') in 0.050128 seconds
+  Import took 0.051942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.748371 seconds.
+  path: Assets/obj/stanok/Testik6
+  artifactKey: Guid(b63ea31f18600d747946fbe37a6526b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik6 using Guid(b63ea31f18600d747946fbe37a6526b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efc80472634f792354daa5cc13c812bc') in 0.006865 seconds
+  Import took 0.008801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088413 seconds.
+  path: Assets/obj/stanok/Testik6/Testik6_initialShadingGroup_BaseColor.png
+  artifactKey: Guid(474dc329a8887a640bddd18db8ee6151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik6/Testik6_initialShadingGroup_BaseColor.png using Guid(474dc329a8887a640bddd18db8ee6151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9c1b7c29cbb41ebc9f9e883e49f1f34') in 0.011681 seconds
+  Import took 0.014387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/obj/stanok/Testik6/Testik6_initialShadingGroup_Height.png
+  artifactKey: Guid(9246741d69c7df04e9e6f453bef32830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik6/Testik6_initialShadingGroup_Height.png using Guid(9246741d69c7df04e9e6f453bef32830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0a9b8b1dc9e824039cec1e23244f5e0') in 0.039775 seconds
+  Import took 0.041886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/obj/stanok/Testik6/Testik6_initialShadingGroup_Metallic.png
+  artifactKey: Guid(7d8146440ef835c469b2a4d9071b5b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik6/Testik6_initialShadingGroup_Metallic.png using Guid(7d8146440ef835c469b2a4d9071b5b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e396ded4fc1a5ae443aa56c731d85abb') in 0.013156 seconds
+  Import took 0.015503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/obj/stanok/Testik6/Testik6_initialShadingGroup_Normal.png
+  artifactKey: Guid(22d3404d2e903934db26f9ed3cd2328e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik6/Testik6_initialShadingGroup_Normal.png using Guid(22d3404d2e903934db26f9ed3cd2328e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234a359b13c6bfbcc962924c2be9ffcb') in 0.042900 seconds
+  Import took 0.045476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/obj/stanok/Testik6/Testik6_initialShadingGroup_Roughness.png
+  artifactKey: Guid(aff5a20ff2505cb49825be86e0c3b24f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik6/Testik6_initialShadingGroup_Roughness.png using Guid(aff5a20ff2505cb49825be86e0c3b24f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e15665202e0dcdb83bcccd9b9f8e6ad') in 0.031349 seconds
+  Import took 0.033861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.789680 seconds.
+  path: Assets/obj/stanok/Testik7
+  artifactKey: Guid(484b9a4528f093a41b118182fe657088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik7 using Guid(484b9a4528f093a41b118182fe657088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1fcb3c9503c1863eef0b99bd2c23f0f') in 0.005829 seconds
+  Import took 0.007753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063714 seconds.
+  path: Assets/obj/stanok/Testik7/Testik7.mat
+  artifactKey: Guid(08f35041e5902da489e3f039139aa786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik7/Testik7.mat using Guid(08f35041e5902da489e3f039139aa786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e3909726caf7e799065587e8e828cc') in 0.011784 seconds
+  Import took 0.014093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/obj/stanok/Testik7/Testik7_initialShadingGroup_Metallic.png
+  artifactKey: Guid(0500657881525c5408a185b8f7b0e17b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik7/Testik7_initialShadingGroup_Metallic.png using Guid(0500657881525c5408a185b8f7b0e17b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0229fccd1a1596ec4bff8653ceeda6b') in 0.016626 seconds
+  Import took 0.018473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/obj/stanok/Testik7/Testik7_initialShadingGroup_Normal.png
+  artifactKey: Guid(d0a50fb7cd224654c96206c9f8e5c185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik7/Testik7_initialShadingGroup_Normal.png using Guid(d0a50fb7cd224654c96206c9f8e5c185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbac848146f55acb3765685e2be9d692') in 0.041766 seconds
+  Import took 0.044334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/obj/stanok/Testik7/Testik7_initialShadingGroup_Roughness.png
+  artifactKey: Guid(237d42391e5038e40ae2c36182362755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik7/Testik7_initialShadingGroup_Roughness.png using Guid(237d42391e5038e40ae2c36182362755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5d55bc3887a674ea723b0137f804fe') in 0.035613 seconds
+  Import took 0.037817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/obj/stanok/Testik7/Testik7_initialShadingGroup_Height.png
+  artifactKey: Guid(72af336cec051ce428e372194786367b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik7/Testik7_initialShadingGroup_Height.png using Guid(72af336cec051ce428e372194786367b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0251ebdec02fac0df48ab3a4f93c2847') in 0.033055 seconds
+  Import took 0.035393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/obj/stanok/Testik7/Testik7_initialShadingGroup_BaseColor.png
+  artifactKey: Guid(6c0d20ddbd538054ca76c8a71f0a715f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik7/Testik7_initialShadingGroup_BaseColor.png using Guid(6c0d20ddbd538054ca76c8a71f0a715f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff142df8e341f8d4728d0877aaa34b40') in 0.020441 seconds
+  Import took 0.022576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.263138 seconds.
+  path: Assets/obj/stanok/Testik8
+  artifactKey: Guid(59a4403c40c59334f8c22381d4a67bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik8 using Guid(59a4403c40c59334f8c22381d4a67bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baad4b360adceacc02f6d6ae412082fc') in 0.009683 seconds
+  Import took 0.011668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095730 seconds.
+  path: Assets/obj/stanok/Testik8/Testik7.mat
+  artifactKey: Guid(0a4ec7f52c54e5c4a981ea2062eeb8f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik8/Testik7.mat using Guid(0a4ec7f52c54e5c4a981ea2062eeb8f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeed06f65a2b352c3f853b6ac9046678') in 0.011998 seconds
+  Import took 0.014075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/obj/stanok/Testik8/Testik8_initialShadingGroup_Normal.png
+  artifactKey: Guid(742dd59eefa67b34ebcc202a15a25ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik8/Testik8_initialShadingGroup_Normal.png using Guid(742dd59eefa67b34ebcc202a15a25ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf500ef9969572b021be90582b67ec12') in 0.041346 seconds
+  Import took 0.043189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/obj/stanok/Testik8/Testik8_initialShadingGroup_BaseColor.png
+  artifactKey: Guid(6158d5087ca2a864eaf70113e53aa246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik8/Testik8_initialShadingGroup_BaseColor.png using Guid(6158d5087ca2a864eaf70113e53aa246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cbd7cf6d210fc098bb0a6457680bfd4') in 0.016685 seconds
+  Import took 0.018760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/obj/stanok/Testik8/Testik8_initialShadingGroup_Height.png
+  artifactKey: Guid(88f4f87f3984a7e4f86d9ba52e4b0223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik8/Testik8_initialShadingGroup_Height.png using Guid(88f4f87f3984a7e4f86d9ba52e4b0223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2342d8236cefa94b09de0f66e0564354') in 0.045059 seconds
+  Import took 0.046959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/obj/stanok/Testik8/Testik8_initialShadingGroup_BaseColor.png
+  artifactKey: Guid(6158d5087ca2a864eaf70113e53aa246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik8/Testik8_initialShadingGroup_BaseColor.png using Guid(6158d5087ca2a864eaf70113e53aa246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cbd7cf6d210fc098bb0a6457680bfd4') in 0.007268 seconds
+  Import took 0.009118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/obj/stanok/Testik8/Testik8_initialShadingGroup_Roughness.png
+  artifactKey: Guid(bd388b23d72e78949a18d3fc2c8a57ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik8/Testik8_initialShadingGroup_Roughness.png using Guid(bd388b23d72e78949a18d3fc2c8a57ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97be4dc243a411a0f560fc2c93f494dd') in 0.030891 seconds
+  Import took 0.033320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/obj/stanok/Testik8/Testik8_initialShadingGroup_Metallic.png
+  artifactKey: Guid(f715c65dd89fc97429b8e855860fe53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik8/Testik8_initialShadingGroup_Metallic.png using Guid(f715c65dd89fc97429b8e855860fe53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b37df993b4139ede9546484c3ef0b6d') in 0.013010 seconds
+  Import took 0.015279 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000799 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.760 seconds
+Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.3 MB.
-System memory in use after: 57.4 MB.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1567.
-Total: 1.396500 ms (FindLiveObjects: 0.157100 ms CreateObjectMapping: 0.038300 ms MarkObjects: 1.188800 ms  DeleteObjects: 0.011400 ms)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1636.
+Total: 1.691900 ms (FindLiveObjects: 0.142700 ms CreateObjectMapping: 0.037900 ms MarkObjects: 1.467400 ms  DeleteObjects: 0.042800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000665 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.913 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1639.
+Total: 1.982400 ms (FindLiveObjects: 0.179300 ms CreateObjectMapping: 0.042300 ms MarkObjects: 1.722000 ms  DeleteObjects: 0.037300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1259.066589 seconds.
+  path: Assets/Scripts/Selecter.cs
+  artifactKey: Guid(05522136b585e8f45975ea32e4ec03b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Selecter.cs using Guid(05522136b585e8f45975ea32e4ec03b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4728a8a068ac046ef751fd8d0ef57579') in 0.012725 seconds
+  Import took 0.015452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021006 seconds.
+  path: Assets/Scripts/Selecter.cs
+  artifactKey: Guid(05522136b585e8f45975ea32e4ec03b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Selecter.cs using Guid(05522136b585e8f45975ea32e4ec03b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4728a8a068ac046ef751fd8d0ef57579') in 0.039009 seconds
+  Import took 0.042089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.346503 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5187126b315f9ff4c3edc45da8f2c6de') in 0.019933 seconds
+  Import took 0.023587 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001378 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.229 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.7 MB.
+System memory in use after: 60.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1642.
+Total: 2.144500 ms (FindLiveObjects: 0.173200 ms CreateObjectMapping: 0.040300 ms MarkObjects: 1.914900 ms  DeleteObjects: 0.014900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000778 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.055 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.7 MB.
+System memory in use after: 60.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1645.
+Total: 9.728300 ms (FindLiveObjects: 6.515200 ms CreateObjectMapping: 0.377500 ms MarkObjects: 2.814100 ms  DeleteObjects: 0.020300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3711.901903 seconds.
+  path: Assets/Scripts/DisplayUI.cs
+  artifactKey: Guid(e74eee9cd564746439097ea74c51ecef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DisplayUI.cs using Guid(e74eee9cd564746439097ea74c51ecef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b5dd7df7544748015ba9aa1290b9730') in 0.010917 seconds
+  Import took 0.013420 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000524 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.823 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.7 MB.
+System memory in use after: 60.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1648.
+Total: 1.720300 ms (FindLiveObjects: 0.146400 ms CreateObjectMapping: 0.036100 ms MarkObjects: 1.493500 ms  DeleteObjects: 0.043400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000534 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.782 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.7 MB.
+System memory in use after: 60.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1651.
+Total: 1.961700 ms (FindLiveObjects: 0.153000 ms CreateObjectMapping: 0.086800 ms MarkObjects: 1.682600 ms  DeleteObjects: 0.037600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000516 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.004 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.7 MB.
+System memory in use after: 60.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1654.
+Total: 1.679600 ms (FindLiveObjects: 0.142900 ms CreateObjectMapping: 0.039800 ms MarkObjects: 1.479300 ms  DeleteObjects: 0.016000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001273 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.804 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.7 MB.
+System memory in use after: 60.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1657.
+Total: 2.009000 ms (FindLiveObjects: 0.136000 ms CreateObjectMapping: 0.035700 ms MarkObjects: 1.806500 ms  DeleteObjects: 0.029600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000878 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.957 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.7 MB.
+System memory in use after: 60.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1660.
+Total: 1.606800 ms (FindLiveObjects: 0.135400 ms CreateObjectMapping: 0.036500 ms MarkObjects: 1.420500 ms  DeleteObjects: 0.013400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1187.046685 seconds.
+  path: Assets/Display.prefab
+  artifactKey: Guid(09d5d7121e3ab9442be1b992f0604168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Display.prefab using Guid(09d5d7121e3ab9442be1b992f0604168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2c71aadad343e7b068ea6dae7aca4f') in 0.054662 seconds
+  Import took 0.057402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014915 seconds.
+  path: Assets/Display.prefab
+  artifactKey: Guid(09d5d7121e3ab9442be1b992f0604168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Display.prefab using Guid(09d5d7121e3ab9442be1b992f0604168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2c71aadad343e7b068ea6dae7aca4f') in 0.003698 seconds
+  Import took 0.005758 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000627 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.030 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.8 MB.
+System memory in use after: 60.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1665.
+Total: 1.485600 ms (FindLiveObjects: 0.129800 ms CreateObjectMapping: 0.039200 ms MarkObjects: 1.302000 ms  DeleteObjects: 0.013600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000818 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 4.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.815 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.8 MB.
+System memory in use after: 60.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1668.
+Total: 2.705400 ms (FindLiveObjects: 0.281200 ms CreateObjectMapping: 0.126500 ms MarkObjects: 2.279600 ms  DeleteObjects: 0.016100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000566 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.705 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.8 MB.
+System memory in use after: 60.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1671.
+Total: 2.205800 ms (FindLiveObjects: 0.196900 ms CreateObjectMapping: 0.052500 ms MarkObjects: 1.939100 ms  DeleteObjects: 0.015600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000645 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.766 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.8 MB.
+System memory in use after: 60.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1674.
+Total: 2.083800 ms (FindLiveObjects: 0.263800 ms CreateObjectMapping: 0.042500 ms MarkObjects: 1.761400 ms  DeleteObjects: 0.015100 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
