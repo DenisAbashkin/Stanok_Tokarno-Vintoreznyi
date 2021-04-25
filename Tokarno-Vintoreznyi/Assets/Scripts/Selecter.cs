@@ -16,7 +16,7 @@ public class Selecter : MonoBehaviour
         {
             var selectionRenderer = _selection.GetComponent<Renderer>();
             selectionRenderer.material = defaultMaterial;
-            _selection = null;
+            _selection = null;            
         }
 
         var ray = Camera.main.ScreenPointToRay(Input.mousePosition);
@@ -28,7 +28,7 @@ public class Selecter : MonoBehaviour
             {
                 var selectionRenderer = selection.GetComponent<Renderer>();
                 if (selectionRenderer != null)
-                {
+                {                   
                     selectionRenderer.material = highlightMaterial;
                 }
                 _selection = selection;
