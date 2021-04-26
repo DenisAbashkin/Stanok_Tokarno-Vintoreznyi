@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: b30ee16c9d1169640b01e8ca90d9a9d6
   - enabled: 1
-    path: Assets/Scenes/StanokScene.unity
+    path: Assets/Scenes/UstanovkaScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MenuUroks.unity
+    guid: 83d892f1bf85677498a2b99e186772ad
+  - enabled: 1
+    path: Assets/Scenes/StanokScene.unity
+    guid: c5b0e3e005a655c4e8fec4f3e0b3e5df
   m_configObjects: {}

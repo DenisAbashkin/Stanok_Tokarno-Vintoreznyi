@@ -11,7 +11,15 @@ public class MainMenu : MonoBehaviour
     }
     public void UrokPressed()
     {
-        SceneManager.LoadScene("UrokMenu");
+        SceneManager.LoadScene("MenuUroks");
+    }
+    public void UstanovkaPressed()
+    {
+        SceneManager.LoadScene("UstanovkaScene");
+    }
+    public void MainMenuPressed()
+    {
+        SceneManager.LoadScene("Menu");
     }
     public void ExitPressed()
     {
