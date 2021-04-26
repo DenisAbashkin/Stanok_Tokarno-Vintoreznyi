@@ -6,16 +6,19 @@ using UnityEngine.UI;
 public class DisplayUI : MonoBehaviour
 {
     public string myString;
+    public string myStringDopInfo;
     public Text myText;
+    public Text myText2;
     public float fadeTime;
     public bool displayInfo;
+    public GameObject PanelToDisable;
 
     // Start is called before the first frame update
     void Start()
     {
         myText = GameObject.Find("Text").GetComponent<Text>();
         myText.color = Color.clear;
-
+        PanelToDisable.SetActive(false);
     }
 
     // Update is called once per frame
@@ -44,6 +47,12 @@ public class DisplayUI : MonoBehaviour
         {
             myText.text = myString;
             myText.color = Color.Lerp(myText.color, Color.white, fadeTime * Time.deltaTime);
+            if (Input.GetMouseButtonDown(0))
+            {
+                myText2.text = myStringDopInfo;
+                myText2.color = Color.Lerp(myText2.color, Color.black, 10);
+                PanelToDisable.SetActive(true);
+            }
         }
         else
         {

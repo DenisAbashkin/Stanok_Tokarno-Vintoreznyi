@@ -9,6 +9,10 @@ public class MainMenu : MonoBehaviour
     {                
        SceneManager.LoadScene("StanokScene");        
     }
+    public void UrokPressed()
+    {
+        SceneManager.LoadScene("UrokMenu");
+    }
     public void ExitPressed()
     {
         Application.Quit();

@@ -11,6 +11,7 @@ public class DisplayUI2 : MonoBehaviour
     public Text myText2;
     public float fadeTime;
     public bool displayInfo;
+    public GameObject PanelToDisable;
 
     // Start is called before the first frame update
     void Start()
@@ -50,6 +51,7 @@ public class DisplayUI2 : MonoBehaviour
             {
                 myText2.text = myStringDopInfo;
                 myText2.color = Color.Lerp(myText2.color, Color.black, 10);
+                PanelToDisable.SetActive(true);
             }
         }
         else
