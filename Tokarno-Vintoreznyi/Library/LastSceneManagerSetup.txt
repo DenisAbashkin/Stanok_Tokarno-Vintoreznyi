@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/StanokScene.unity
+- path: Assets/Scenes/UstanovkaScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
