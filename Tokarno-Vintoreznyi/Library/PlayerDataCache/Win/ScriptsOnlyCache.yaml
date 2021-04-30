@@ -5,14 +5,9 @@ ScriptsOnlyBuild:
     - CameraController
     - DisplayUI
     - DisplayUI2
-    - DisplayUI3
-    - DisplayUI4
-    - DisplayUI5
     - InputControl
     - MainMenu
-    - Mouseclick
     - Outline
-    - OutlineCheck
     - OutlineSelectionResponse
     - Outline_Ray
     - Selecter
@@ -155,6 +150,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 89
@@ -163,14 +160,14 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
+    - Class: 111
+      Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 1436}
     - Class: 114
       Script: {instanceID: 1490}
     - Class: 114
       Script: {instanceID: 1504}
-    - Class: 114
-      Script: {instanceID: 1514}
     - Class: 114
       Script: {instanceID: 1628}
     - Class: 114
@@ -184,23 +181,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2090}
     - Class: 114
-      Script: {instanceID: 2140}
-    - Class: 114
-      Script: {instanceID: 2308}
-    - Class: 114
-      Script: {instanceID: 2490}
-    - Class: 114
       Script: {instanceID: 2666}
     - Class: 114
       Script: {instanceID: 2846}
     - Class: 114
       Script: {instanceID: 2854}
     - Class: 114
-      Script: {instanceID: 2936}
-    - Class: 114
       Script: {instanceID: 3074}
     - Class: 114
       Script: {instanceID: 3392}
+    - Class: 114
+      Script: {instanceID: 3432}
     - Class: 114
       Script: {instanceID: 3488}
     - Class: 114

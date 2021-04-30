@@ -1,0 +1,443 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'ru' Physical Memory: 16344 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program\Unity\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+61523
+Successfully changed project path to: E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi
+E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 24.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path D:/Program/Unity/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   
+    VRAM:     8088 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'D:/Program/Unity/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program/Unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program/Unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56108
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program/Unity/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.106488 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 24.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.051 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.051855 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.140 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1134 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.0 MB.
+System memory in use after: 58.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1578.
+Total: 2.113900 ms (FindLiveObjects: 0.120900 ms CreateObjectMapping: 0.034400 ms MarkObjects: 1.867000 ms  DeleteObjects: 0.090700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/obj/Stanok_OBJ.obj
+  artifactKey: Guid(57bb18907cb470043b4ada314fa06110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Stanok_OBJ.obj using Guid(57bb18907cb470043b4ada314fa06110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9388a351ee0664f8999a1a63ccb2faa') in 0.888321 seconds
+  Import took 0.892975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.358877 seconds.
+  path: Assets/obj/Stanok_OBJ.mtl
+  artifactKey: Guid(0778ca12ae1fa8a45b90cfb7cdd58164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Stanok_OBJ.mtl using Guid(0778ca12ae1fa8a45b90cfb7cdd58164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2700553750157ebbc1478b923e0a8c2') in 0.009950 seconds
+  Import took 0.012244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1503.035294 seconds.
+  path: Assets/obj/body_knopki.obj
+  artifactKey: Guid(8708c3608078c0248b69436e8474e4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/body_knopki.obj using Guid(8708c3608078c0248b69436e8474e4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6d8febc981e70d2fe1c7892ad8b698a') in 0.060798 seconds
+  Import took 0.064549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/obj/knopka_end.obj
+  artifactKey: Guid(c89b9a9ba9d2d5845a6a101384de2a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/knopka_end.obj using Guid(c89b9a9ba9d2d5845a6a101384de2a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a55dc672ce70af9eafafcc201592571a') in 0.039335 seconds
+  Import took 0.041159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/obj/Perednaya_Babka.obj
+  artifactKey: Guid(4e66f0423392c9946a3ea878abf0b4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Perednaya_Babka.obj using Guid(4e66f0423392c9946a3ea878abf0b4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83fe3761dbce83388fe986af390c79b4') in 0.045016 seconds
+  Import took 0.046943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/obj/Pinol.obj
+  artifactKey: Guid(9af3b0b044f59be4f9811f688b98d7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Pinol.obj using Guid(9af3b0b044f59be4f9811f688b98d7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5e203bbf84357153a7e046600ffdb06') in 0.080313 seconds
+  Import took 0.082216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/obj/rez.obj
+  artifactKey: Guid(afaea6939045e804c81be0d5147aa5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/rez.obj using Guid(afaea6939045e804c81be0d5147aa5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63d3d9058b678245381380bdb608cbf0') in 0.045672 seconds
+  Import took 0.047731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/obj/Stanina_Verh.obj
+  artifactKey: Guid(b04c58751e170ba438dd5ff3e852ab04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Stanina_Verh.obj using Guid(b04c58751e170ba438dd5ff3e852ab04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee357769d82d882560a55d691b5c72fc') in 0.063122 seconds
+  Import took 0.065181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/obj/Vints.obj
+  artifactKey: Guid(54d46250fec25cc4bb5016d349e67d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Vints.obj using Guid(54d46250fec25cc4bb5016d349e67d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b31f9146f251840df733d137bbabb567') in 0.031290 seconds
+  Import took 0.033199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/obj/zagim.obj
+  artifactKey: Guid(f9f17f19655c02e488f86bdd6bb22cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/zagim.obj using Guid(f9f17f19655c02e488f86bdd6bb22cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fad084c614dbf3ece4ac1d62846cfded') in 0.077806 seconds
+  Import took 0.079830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/obj/knopka_start.obj
+  artifactKey: Guid(2130f0c53e503d542bf2fc5cdfef156e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/knopka_start.obj using Guid(2130f0c53e503d542bf2fc5cdfef156e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '518406413c892b8cee9df77635f39553') in 0.027105 seconds
+  Import took 0.029114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/obj/verh.obj
+  artifactKey: Guid(f7ec0ceee2ffe8c45905f90dd382f825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/verh.obj using Guid(f7ec0ceee2ffe8c45905f90dd382f825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bc3922850977883a483810236586200') in 0.031841 seconds
+  Import took 0.037827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/obj/Support_Left_dvig.obj
+  artifactKey: Guid(e8fc82633157f2f4aba56d835c87cee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Support_Left_dvig.obj using Guid(e8fc82633157f2f4aba56d835c87cee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36d7db6ae9fb17e1d1fe19922a7ece7d') in 0.030583 seconds
+  Import took 0.032713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/obj/Knopki_Niz.obj
+  artifactKey: Guid(4e706106cc85b9848bdb01f5c335b080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Knopki_Niz.obj using Guid(4e706106cc85b9848bdb01f5c335b080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bbba7c6ce3181de01acd08872c87cae') in 0.077427 seconds
+  Import took 0.081503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/obj/korobka_pereda.obj
+  artifactKey: Guid(ed1ac550bac1bd3419fb4a40b337cc39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/korobka_pereda.obj using Guid(ed1ac550bac1bd3419fb4a40b337cc39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ba857962fe8708a4ebe69c32d4f0c72') in 0.043877 seconds
+  Import took 0.045920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/obj/Zadnya_babka.obj
+  artifactKey: Guid(7a6d30a898d7b8f4d88a6e5ad42e4c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Zadnya_babka.obj using Guid(7a6d30a898d7b8f4d88a6e5ad42e4c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e442d5aedb217e246eb93d5933cda113') in 0.079864 seconds
+  Import took 0.082724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/obj/Patron.obj
+  artifactKey: Guid(3e52242bdbfc95842aa6518eab4bda37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Patron.obj using Guid(3e52242bdbfc95842aa6518eab4bda37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c12da7545a4998edce8b56bba94a41') in 0.066095 seconds
+  Import took 0.069019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/obj/Ruchka_Rezez.obj
+  artifactKey: Guid(27749a8de8605df46a4f019e3ecddded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Ruchka_Rezez.obj using Guid(27749a8de8605df46a4f019e3ecddded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb7770830e58ad1d5466f26adea4e205') in 0.037572 seconds
+  Import took 0.039506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/obj/Rezez_new.obj
+  artifactKey: Guid(317e3b21274aff046b394579c6e86e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Rezez_new.obj using Guid(317e3b21274aff046b394579c6e86e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '176238b91ea66a4b41a0f9f2739f4d51') in 0.033486 seconds
+  Import took 0.035337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/obj/dob.obj
+  artifactKey: Guid(db58fceaefe7f4441a8ef7c396049eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/dob.obj using Guid(db58fceaefe7f4441a8ef7c396049eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8586f81b236c8163b8b618f74310f629') in 0.034225 seconds
+  Import took 0.036026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/obj/shtoki.obj
+  artifactKey: Guid(0b2c4618f0324d44d86531b4bc2bab5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/shtoki.obj using Guid(0b2c4618f0324d44d86531b4bc2bab5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45c9085f105a6370839c5cc5a3b35129') in 0.050353 seconds
+  Import took 0.052173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/obj/left.obj
+  artifactKey: Guid(dc2fc2521eb0aeb4493b382f0f70647f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/left.obj using Guid(dc2fc2521eb0aeb4493b382f0f70647f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe8980cfcc1c40cd3518fda0cd8940c3') in 0.044874 seconds
+  Import took 0.046780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/obj/rukoyatka.obj
+  artifactKey: Guid(de239ac579ed8074ca1b83a2f5bd9b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/rukoyatka.obj using Guid(de239ac579ed8074ca1b83a2f5bd9b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac8ac8cc6a4c2d188da1bb15c0d0b2ba') in 0.063705 seconds
+  Import took 0.065778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/obj/mahovik_karetka.obj
+  artifactKey: Guid(367ea025e5e2cf244948b89c169753b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/mahovik_karetka.obj using Guid(367ea025e5e2cf244948b89c169753b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f733be4ba1377106ef93751ace35c9df') in 0.056291 seconds
+  Import took 0.058200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/obj/Stanina.obj
+  artifactKey: Guid(2a9c2e629b671814f87566c6b480d82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Stanina.obj using Guid(2a9c2e629b671814f87566c6b480d82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '275f9422d6575d95f906c48ec50c4ab5') in 0.084912 seconds
+  Import took 0.088262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/obj/Electro_pult.obj
+  artifactKey: Guid(47a3be10febeedb4db7a6ee40d27db9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Electro_pult.obj using Guid(47a3be10febeedb4db7a6ee40d27db9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f384ffe2d58fbc8d29dc526f0b1ff4e6') in 0.048782 seconds
+  Import took 0.052190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/obj/rukoyatka_support.obj
+  artifactKey: Guid(a32134729371c4446bcab47a7a719be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/rukoyatka_support.obj using Guid(a32134729371c4446bcab47a7a719be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecacd4a69c65cf9cdfad3c02bbab9ac3') in 0.109426 seconds
+  Import took 0.111648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/obj/hvat.obj
+  artifactKey: Guid(ac94bdbebb0c3f3428a51de98b465696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/hvat.obj using Guid(ac94bdbebb0c3f3428a51de98b465696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f9b28e8244fdcce8a43506791db755e') in 0.081673 seconds
+  Import took 0.083600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/obj/fartuk.obj
+  artifactKey: Guid(87aaf4c7ba653b04ead628c2c42a8bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/fartuk.obj using Guid(87aaf4c7ba653b04ead628c2c42a8bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdbe0bbaf821e7adb667128605b4e53e') in 0.049334 seconds
+  Import took 0.051241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/obj/Knopki_verh.obj
+  artifactKey: Guid(a083f2b881422fe45bd2c14b228ebf4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Knopki_verh.obj using Guid(a083f2b881422fe45bd2c14b228ebf4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2472fd634ee9b7515269d3af60c7d21') in 0.083309 seconds
+  Import took 0.085328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/obj/ruchka.obj
+  artifactKey: Guid(d7cb2a90043151144bf7adf279ecfd66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/ruchka.obj using Guid(d7cb2a90043151144bf7adf279ecfd66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7624a2b83c1bde5754c4c04b689f5b30') in 0.058653 seconds
+  Import took 0.061482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/obj/Shpindel.obj
+  artifactKey: Guid(b26ba47d7f17c45459142af58f76c0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Shpindel.obj using Guid(b26ba47d7f17c45459142af58f76c0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac17d3edc3ab8ab798dbb9696a699732') in 0.046635 seconds
+  Import took 0.048605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/obj/Support_dvig.obj
+  artifactKey: Guid(3f07c3bdbeed20d4fb1f9fb084936399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Support_dvig.obj using Guid(3f07c3bdbeed20d4fb1f9fb084936399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ae99d33b08439af57cb33fe01b56c68') in 0.034241 seconds
+  Import took 0.036744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/obj/tablih.obj
+  artifactKey: Guid(062f457983d46264c9cd7b2b7086fece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/tablih.obj using Guid(062f457983d46264c9cd7b2b7086fece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc6e94a99ee99c8ca39944f3ef8fabcc') in 0.039374 seconds
+  Import took 0.046088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 680.266565 seconds.
+  path: Assets/obj/stanok/Testik1/Testik1 1.mat
+  artifactKey: Guid(72c4aa6185dabc547ac0517b6505f728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik1/Testik1 1.mat using Guid(72c4aa6185dabc547ac0517b6505f728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c9c8f5fca24efb44d8f076153bb5020') in 0.026724 seconds
+  Import took 0.029290 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000606 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1127 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.5 MB.
+System memory in use after: 61.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1624.
+Total: 2.104500 ms (FindLiveObjects: 0.183600 ms CreateObjectMapping: 0.046900 ms MarkObjects: 1.847000 ms  DeleteObjects: 0.025800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000636 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.797 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1127 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.5 MB.
+System memory in use after: 61.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1627.
+Total: 1.582800 ms (FindLiveObjects: 0.126900 ms CreateObjectMapping: 0.034900 ms MarkObjects: 1.404800 ms  DeleteObjects: 0.014200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 460.944199 seconds.
+  path: Assets/obj/stanok/Testik1/Testik1 2.mat
+  artifactKey: Guid(4886fbf4bbadb7c4b8314d007f8659a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/stanok/Testik1/Testik1 2.mat using Guid(4886fbf4bbadb7c4b8314d007f8659a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb6e1b2902ceb49464761b80108e8df9') in 0.065000 seconds
+  Import took 0.067359 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000547 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.744 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1127 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.6 MB.
+System memory in use after: 61.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1631.
+Total: 1.661600 ms (FindLiveObjects: 0.119100 ms CreateObjectMapping: 0.033300 ms MarkObjects: 1.495300 ms  DeleteObjects: 0.012900 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.3 MB.
+System memory in use after: 39.4 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
+Total: 1.958300 ms (FindLiveObjects: 0.138400 ms CreateObjectMapping: 0.035200 ms MarkObjects: 1.767700 ms  DeleteObjects: 0.015000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
