@@ -7,6 +7,6 @@ public class AnimationController : MonoBehaviour
     
     private void Awake()
     {
-        GetComponent<Animation>().Play("RezezAnimation");
+        GetComponent<Animation>().Play("RezezAnimation2");
     }
 }
