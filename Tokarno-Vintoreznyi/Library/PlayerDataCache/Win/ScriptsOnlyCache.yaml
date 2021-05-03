@@ -834,4 +834,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/UstanovkaScene.unity
   - Assets/Scenes/MenuUroks.unity
   - Assets/Scenes/StanokScene.unity
-  playerPath: E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi.exe
+  playerPath: E:/Diplom/Tokarno-Vintoreznyi.exe
