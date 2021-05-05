@@ -5,6 +5,9 @@ ScriptsOnlyBuild:
     - CameraController
     - DisplayUI
     - DisplayUI2
+    - GlowComposite
+    - GlowController
+    - GlowObjectCmd
     - InputControl
     - MainMenu
     - Outline
@@ -14,8 +17,6 @@ ScriptsOnlyBuild:
     - SelectionManager
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
-    Unity.Timeline.Editor.dll:
-    - TimelineProjectSettings
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -49,21 +50,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1436}
+      Script: {instanceID: 1446}
     - Class: 114
-      Script: {instanceID: 1504}
+      Script: {instanceID: 1514}
     - Class: 114
-      Script: {instanceID: 2666}
+      Script: {instanceID: 2680}
     - Class: 114
-      Script: {instanceID: 2846}
+      Script: {instanceID: 2860}
     - Class: 114
-      Script: {instanceID: 3074}
+      Script: {instanceID: 3088}
     - Class: 114
-      Script: {instanceID: 3392}
+      Script: {instanceID: 3408}
     - Class: 114
-      Script: {instanceID: 3532}
+      Script: {instanceID: 3548}
     - Class: 114
-      Script: {instanceID: 3668}
+      Script: {instanceID: 3688}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -100,21 +101,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1436}
+      Script: {instanceID: 1446}
     - Class: 114
-      Script: {instanceID: 1504}
+      Script: {instanceID: 1514}
     - Class: 114
-      Script: {instanceID: 2666}
+      Script: {instanceID: 2680}
     - Class: 114
-      Script: {instanceID: 2846}
+      Script: {instanceID: 2860}
     - Class: 114
-      Script: {instanceID: 3074}
+      Script: {instanceID: 3088}
     - Class: 114
-      Script: {instanceID: 3392}
+      Script: {instanceID: 3408}
     - Class: 114
-      Script: {instanceID: 3532}
+      Script: {instanceID: 3548}
     - Class: 114
-      Script: {instanceID: 3668}
+      Script: {instanceID: 3688}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -165,41 +166,47 @@ ScriptsOnlyBuild:
     - Class: 111
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1436}
+      Script: {instanceID: 1446}
     - Class: 114
-      Script: {instanceID: 1490}
+      Script: {instanceID: 1500}
     - Class: 114
-      Script: {instanceID: 1504}
+      Script: {instanceID: 1514}
     - Class: 114
-      Script: {instanceID: 1628}
+      Script: {instanceID: 1594}
     - Class: 114
-      Script: {instanceID: 1648}
+      Script: {instanceID: 1640}
     - Class: 114
-      Script: {instanceID: 1820}
+      Script: {instanceID: 1660}
     - Class: 114
-      Script: {instanceID: 1850}
+      Script: {instanceID: 1834}
     - Class: 114
-      Script: {instanceID: 1994}
+      Script: {instanceID: 1864}
     - Class: 114
-      Script: {instanceID: 2090}
+      Script: {instanceID: 2008}
     - Class: 114
-      Script: {instanceID: 2666}
+      Script: {instanceID: 2104}
     - Class: 114
-      Script: {instanceID: 2846}
+      Script: {instanceID: 2680}
     - Class: 114
-      Script: {instanceID: 2854}
+      Script: {instanceID: 2860}
     - Class: 114
-      Script: {instanceID: 3074}
+      Script: {instanceID: 2868}
     - Class: 114
-      Script: {instanceID: 3392}
+      Script: {instanceID: 3088}
     - Class: 114
-      Script: {instanceID: 3432}
+      Script: {instanceID: 3386}
     - Class: 114
-      Script: {instanceID: 3488}
+      Script: {instanceID: 3408}
     - Class: 114
-      Script: {instanceID: 3532}
+      Script: {instanceID: 3448}
     - Class: 114
-      Script: {instanceID: 3668}
+      Script: {instanceID: 3504}
+    - Class: 114
+      Script: {instanceID: 3548}
+    - Class: 114
+      Script: {instanceID: 3608}
+    - Class: 114
+      Script: {instanceID: 3688}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -252,37 +259,37 @@ ScriptsOnlyBuild:
     - Class: 111
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1436}
+      Script: {instanceID: 1446}
     - Class: 114
-      Script: {instanceID: 1490}
+      Script: {instanceID: 1500}
     - Class: 114
-      Script: {instanceID: 1504}
+      Script: {instanceID: 1514}
     - Class: 114
-      Script: {instanceID: 1628}
+      Script: {instanceID: 1640}
     - Class: 114
-      Script: {instanceID: 1648}
+      Script: {instanceID: 1660}
     - Class: 114
-      Script: {instanceID: 1820}
+      Script: {instanceID: 1834}
     - Class: 114
-      Script: {instanceID: 1994}
+      Script: {instanceID: 2008}
     - Class: 114
-      Script: {instanceID: 2090}
+      Script: {instanceID: 2104}
     - Class: 114
-      Script: {instanceID: 2666}
+      Script: {instanceID: 2680}
     - Class: 114
-      Script: {instanceID: 2846}
+      Script: {instanceID: 2860}
     - Class: 114
-      Script: {instanceID: 3074}
+      Script: {instanceID: 3088}
     - Class: 114
-      Script: {instanceID: 3392}
+      Script: {instanceID: 3408}
     - Class: 114
-      Script: {instanceID: 3432}
+      Script: {instanceID: 3448}
     - Class: 114
-      Script: {instanceID: 3488}
+      Script: {instanceID: 3504}
     - Class: 114
-      Script: {instanceID: 3532}
+      Script: {instanceID: 3548}
     - Class: 114
-      Script: {instanceID: 3668}
+      Script: {instanceID: 3688}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -344,6 +351,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: cdc7634d5aa0ed6d71fa8844a757ff4e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GlowObjectCmd
   - hash:
       serializedVersion: 2
       Hash: caa533b001ae39b864ba8425019e2268
@@ -434,6 +447,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GlowPrePass
   - hash:
       serializedVersion: 2
       Hash: f5d9f9bccc6033aca3af4cc5b31240ab
@@ -742,6 +761,12 @@ ScriptsOnlyBuild:
     className: TestResultRendererCallback
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GlowController
+  - hash:
+      serializedVersion: 2
       Hash: 748dd2a2a28da4e618912da5ac45684b
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -808,6 +833,12 @@ ScriptsOnlyBuild:
     className: Button
   - hash:
       serializedVersion: 2
+      Hash: cdc7634d5aa0ed6d71fa8844a757ff4e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GlowObject
+  - hash:
+      serializedVersion: 2
       Hash: 7ab0e790220bdca831fdd886b339039d
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -818,6 +849,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 8dfde8d8da7e27eca3d95baa4ef7c3f2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GlowComposite
   - hash:
       serializedVersion: 2
       Hash: 4fd8bf02e3089425d3502e26c44ba31a
@@ -834,6 +871,6 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/UstanovkaScene.unity
-  - Assets/Scenes/MenuUroks.unity
   - Assets/Scenes/StanokScene.unity
-  playerPath: E:/Diplom/Tokarno-Vintoreznyi.exe
+  - Assets/Scenes/MenuUroks.unity
+  playerPath: E:/Diplom/GitHub/Tokarno-Vintoreznyi.exe
