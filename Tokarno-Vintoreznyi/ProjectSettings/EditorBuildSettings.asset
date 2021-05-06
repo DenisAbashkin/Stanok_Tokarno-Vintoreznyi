@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: Assets/Scenes/StanokScene.unity
     guid: c5b0e3e005a655c4e8fec4f3e0b3e5df
   - enabled: 1
-    path: Assets/Scenes/MenuUroks.unity
+    path: Assets/Scenes/MenuObuchenie.unity
     guid: 83d892f1bf85677498a2b99e186772ad
+  - enabled: 1
+    path: Assets/Scenes/MenuOrgani.unity
+    guid: 7318d46c07afba94982b7241c45028f8
+  - enabled: 1
+    path: Assets/Scenes/UpravlenieSupportom.unity
+    guid: 8be1342d6bcb48a4dbcee4f0be3bb16d
   m_configObjects: {}
