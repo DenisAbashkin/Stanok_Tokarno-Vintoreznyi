@@ -25,6 +25,14 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("UstanovkaScene");
     }
+    public void ZnakomstvoPressed()
+    {
+        SceneManager.LoadScene("Znakomstvo");
+    }
+    public void NaznacheniePressed()
+    {
+        SceneManager.LoadScene("Naznachenie");
+    }
     public void TechObslugaPressed()
     {
         SceneManager.LoadScene("MenuTexObsluga");

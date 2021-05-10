@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/ZamenaShesterenok.unity
+- path: Assets/Scenes/Naznachenie.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
