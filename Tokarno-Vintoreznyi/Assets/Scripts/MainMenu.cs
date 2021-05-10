@@ -19,11 +19,15 @@ public class MainMenu : MonoBehaviour
     }
     public void UpravlenieSupportomPressed()
     {
-        SceneManager.LoadScene("UpravlenieSupportom");
+        SceneManager.LoadScene("UpravlenieSupportom2");
     }
     public void UstanovkaPressed()
     {
         SceneManager.LoadScene("UstanovkaScene");
+    }
+    public void UpravlenieShpindelem()
+    {
+        SceneManager.LoadScene("UpravlenieShpindel");
     }
     public void MainMenuPressed()
     {

@@ -26,4 +26,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/StanokScene.unity
     guid: 4ffd342f4ab074d40856d47c1600cffe
+  - enabled: 1
+    path: Assets/Scenes/UpravlenieSupportom2.unity
+    guid: 0bfff8bc69073ac4f99f135e63faa73d
+  - enabled: 1
+    path: Assets/Scenes/UpravlenieShpindel.unity
+    guid: cddd2ec511a42c647861dd7d2f15045c
   m_configObjects: {}
