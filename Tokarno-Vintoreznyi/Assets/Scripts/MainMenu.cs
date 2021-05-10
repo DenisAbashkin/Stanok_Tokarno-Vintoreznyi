@@ -25,6 +25,10 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("UstanovkaScene");
     }
+    public void TechObslugaPressed()
+    {
+        SceneManager.LoadScene("MenuTexObsluga");
+    }
     public void UpravlenieShpindelem()
     {
         SceneManager.LoadScene("UpravlenieShpindel");

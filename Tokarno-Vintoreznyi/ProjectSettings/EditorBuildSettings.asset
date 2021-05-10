@@ -32,4 +32,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UpravlenieShpindel.unity
     guid: cddd2ec511a42c647861dd7d2f15045c
+  - enabled: 1
+    path: Assets/Scenes/MenuTexObsluga.unity
+    guid: d653a80d3be80b741bafa39e7320bcbc
+  - enabled: 1
+    path: Assets/Scenes/ZamenaShesterenok.unity
+    guid: 228251442dc944442b1a30d887b1e48b
   m_configObjects: {}

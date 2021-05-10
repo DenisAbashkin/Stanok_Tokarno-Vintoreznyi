@@ -647,7 +647,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0423\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0430"
+  m_Text: "\u0417\u0430\u043C\u0435\u043D\u0430 \u0448\u0435\u0441\u0442\u0435\u0440\u0435\u043D\u043E\u043A"
 --- !u!222 &547459577
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -1995,7 +1995,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1953722630}
         m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
-        m_MethodName: UstanovkaPressed
+        m_MethodName: TechObslugaPressed
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
