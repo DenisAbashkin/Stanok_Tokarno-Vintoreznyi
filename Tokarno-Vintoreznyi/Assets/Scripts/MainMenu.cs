@@ -33,6 +33,34 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Naznachenie");
     }
+    public void SupportPressed()
+    {
+        SceneManager.LoadScene("Support");
+    }
+    public void ZadnyaPressed()
+    {
+        SceneManager.LoadScene("ZadnyaBabka");
+    }
+    public void PeredBabkaPressed()
+    {
+        SceneManager.LoadScene("PednyaBabka");
+    }
+    public void RezezPressed()
+    {
+        SceneManager.LoadScene("Rezez");
+    }
+    public void OboznacheniePressed()
+    {
+        SceneManager.LoadScene("Oboznachenie");
+    }
+    public void PosledovatelnostPressed()
+    {
+        SceneManager.LoadScene("Posledovatelnost");
+    }
+    public void ZamenaPatronaPressed()
+    {
+        SceneManager.LoadScene("SmenaPatrona");
+    }
     public void TechObslugaPressed()
     {
         SceneManager.LoadScene("MenuTexObsluga");

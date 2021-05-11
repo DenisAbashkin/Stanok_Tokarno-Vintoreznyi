@@ -44,4 +44,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Naznachenie.unity
     guid: 7ff28ea2c0e193a4b836dfe1d378fe0d
+  - enabled: 1
+    path: Assets/Scenes/PednyaBabka.unity
+    guid: 74feb4380e3bba845b811cf689c7e1d6
+  - enabled: 1
+    path: Assets/Scenes/Support.unity
+    guid: 1f66b5f737df93541bf384743e1de0ed
+  - enabled: 1
+    path: Assets/Scenes/ZadnyaBabka.unity
+    guid: 6a945a0a561b5c4439d642e970cefb80
+  - enabled: 1
+    path: Assets/Scenes/Rezez.unity
+    guid: a14cba9aa34709f4f8eb69149ce21553
+  - enabled: 1
+    path: Assets/Scenes/Oboznachenie.unity
+    guid: 25cb926c0f9999a419c20a9c343ad22c
+  - enabled: 1
+    path: Assets/Scenes/SmenaPatrona.unity
+    guid: 85841d45e4199a94999f675ecf8e0a9d
+  - enabled: 1
+    path: Assets/Scenes/Posledovatelnost.unity
+    guid: ad69e59cc78fbbc49b7e7c86c6ef8aa4
   m_configObjects: {}

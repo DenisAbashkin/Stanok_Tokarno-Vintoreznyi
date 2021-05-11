@@ -872,7 +872,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0423\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0430"
+  m_Text: "\u0423\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0430 \u0437\u0430\u0433\u043E\u0442\u043E\u0432\u043A\u0438"
 --- !u!222 &793195714
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1137,7 +1137,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1261440643}
         m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
-        m_MethodName: UstanovkaPressed
+        m_MethodName: RezezPressed
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1431,7 +1431,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0423\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0430"
+  m_Text: "\u0417\u0430\u043C\u0435\u043D\u0430 \u043F\u0430\u0442\u0440\u043E\u043D\u0430"
 --- !u!222 &1572899119
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1792,7 +1792,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1822667944}
         m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
-        m_MethodName: UstanovkaPressed
+        m_MethodName: ZamenaPatronaPressed
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
