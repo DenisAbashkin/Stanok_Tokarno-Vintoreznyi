@@ -65,4 +65,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Posledovatelnost.unity
     guid: ad69e59cc78fbbc49b7e7c86c6ef8aa4
+  - enabled: 1
+    path: Assets/Scenes/Smenahesterenok.unity
+    guid: 80a15a92afe55594eb994c736e639621
+  - enabled: 1
+    path: Assets/Scenes/PerednyaBabkaVerh.unity
+    guid: 9b724818e59e33a4cbbb4d64a0e6c281
   m_configObjects: {}

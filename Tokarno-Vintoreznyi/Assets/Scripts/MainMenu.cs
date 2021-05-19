@@ -53,6 +53,14 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Oboznachenie");
     }
+    public void PerednyaBabkaMechPressed()
+    {
+        SceneManager.LoadScene("PerednyaBabkaVerh");
+    }
+    public void GitaraPressed()
+    {
+        SceneManager.LoadScene("Smenahesterenok");
+    }
     public void PosledovatelnostPressed()
     {
         SceneManager.LoadScene("Posledovatelnost");
