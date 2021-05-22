@@ -60,6 +60,9 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
+    - UnityEngine.UI.Mask
+    - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Scrollbar
     - UnityEngine.UI.Text
   sceneClasses:
     Assets/Scenes/Menu.unity:
@@ -2355,6 +2358,10 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2282}
     - Class: 114
+      Script: {instanceID: 2430}
+    - Class: 114
+      Script: {instanceID: 2624}
+    - Class: 114
       Script: {instanceID: 2674}
     - Class: 114
       Script: {instanceID: 2706}
@@ -2384,6 +2391,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 3452}
     - Class: 114
       Script: {instanceID: 3454}
+    - Class: 114
+      Script: {instanceID: 3468}
     - Class: 114
       Script: {instanceID: 3486}
     - Class: 114
