@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Project
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 108
+  controlID: 116
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -151,7 +151,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -375,22 +375,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/obj/Materials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/obj/Materials
   m_LastFoldersGridSize: 96
   m_LastProjectPath: E:\Diplom\GitHub\Stanok_Tokarno-Vintoreznyi\Tokarno-Vintoreznyi
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 284b0000
-    m_LastClickedID: 19240
-    m_ExpandedIDs: 000000000a4a00000c4a00000e4a0000104a000000ca9a3b
+    m_SelectedIDs: 3e4a0000
+    m_LastClickedID: 19006
+    m_ExpandedIDs: 000000000a4a00000c4a00000e4a0000104a0000084b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -543,7 +543,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 9c0dffffbc0dffffc00dfffffe0effff6413ffff3e14ffff0215ffff0816ffff0c16ffffd016ffffca17ffffc818ffffce19ffffe01affffe41affffea1bffffee1bfffff41cfffffa1dffff001fffff141fffff181fffff1c1fffffd022ffff9426ffff9826ffffae28ffffce28ffff7029ffffb82affff1e2ffffff82fffffbc30ffffc231ffffc631ffff8a32ffff8a33ffff8834ffff9035ffffa236ffffa636ffffac37ffffb037ffffb638ffffbc39ffffc23affffd83affffdc3affffe03affff963effff5a42ffff5e42fffff849ffff184affffba4affff024cffff6850ffff4251ffff0652ffff0c53ffff1053ffffd453ffffd454ffffd255ffffda56ffffec57fffff057fffff658fffffa58ffff005affff065bffff0c5cffff225cffff265cffff2a5cffffe05fffffa463ffffa863ffffda69fffffa69fffffe69ffff3c6bffffa26fffff7c70ffff4071ffff4672ffff4a72ffff0e73ffff0874ffff0675ffff0c76ffff1e77ffff2277ffff2878ffff2c78ffff3279ffff387affff3e7bffff527bffff567bffff5a7bffff0e7fffffd282ffffd682ffffb885ffffd885ffffe085ffff2287ffff8c8bffff6a8cffff328dffff3c8effff448effff0c8fffff0a90ffff0c91ffff1692ffff2c93ffff3493ffff3e94ffff4694ffff5095ffff5a96ffff6497ffff7c97ffff8497ffff8c97ffff449bffff0c9fffff149fffff16a1ffff36a1ffffd8a1ffff20a3ffff86a7ffff60a8ffff24a9ffff2aaaffff2eaafffff2aafffff2abfffff0acfffff8adffff0aafffff0eafffff14b0ffff18b0ffff1eb1ffff24b2ffff2ab3ffff40b3ffff44b3ffff48b3fffffeb6ffffc2baffffc6baffffecc0ffff0cc1ffff10c1ffff4ec2ffffb4c6ffff8ec7ffff52c8ffff58c9ffff5cc9ffff20caffff1acbffff18ccffff1ecdffff30ceffff34ceffff3acfffff3ecfffff44d0ffff4ad1ffff50d2ffff64d2ffff68d2ffff6cd2ffff20d6ffffe4d9ffffe8d9ffff4cdcffff6cdcffff0eddffff56deffffbce2ffff96e3ffff5ae4ffff60e5ffff64e5ffff28e6ffff28e7ffff26e8ffff2ee9ffff40eaffff44eaffff4aebffff4eebffff54ecffff5aedffff60eeffff78eeffff7ceeffff80eeffff36f2fffffaf5fffffef5ffff52fbffffe641000010eb000086830100d0330200d0c60200b6c8020004cb020044cd0200da640300fc200400
+      m_ExpandedIDs: 9eccffffbeccffff60cdffffa8ceffff0ed3ffffe8d3ffffacd4ffffb2d5ffffb6d5ffff7ad6ffff7ad7ffff78d8ffff80d9ffff92daffff96daffff9cdbffffa0dbffffa6dcffffacddffffb2deffffc8deffffccdeffffd0deffff86e2ffff4ae6ffff4ee6ffff52fbffffe6410000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -655,11 +655,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.01810747, y: 0.9741838, z: -0.20796551, w: 0.0847793}
     speed: 2
-    m_Value: {x: 0.018109288, y: 0.97428167, z: -0.2079864, w: 0.084787816}
+    m_Value: {x: 0.01810747, y: 0.9741838, z: -0.20796551, w: 0.08477929}
   m_Size:
-    m_Target: 169.07893
+    m_Target: 40.56897
     speed: 2
-    m_Value: 169.07893
+    m_Value: 42.4806
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -733,8 +733,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -550.5
     m_HBaseRangeMax: 550.5
-    m_VBaseRangeMin: -234
-    m_VBaseRangeMax: 234
+    m_VBaseRangeMin: -244.5
+    m_VBaseRangeMax: 244.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -751,11 +751,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 1101
-      height: 468
+      height: 489
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 550.5, y: 234}
+    m_Translation: {x: 550.5, y: 244.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -763,9 +763,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -550.5
-      y: -234
+      y: -244.5
       width: 1101
-      height: 468
+      height: 489
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1101, y: 489}
