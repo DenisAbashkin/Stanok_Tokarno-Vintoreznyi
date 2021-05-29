@@ -8,6 +8,7 @@ using System.Collections.Generic;
 public class GlowController : MonoBehaviour
 {
 	private static GlowController _instance;
+	public GameObject glowObj;
 
 	private CommandBuffer _commandBuffer;
 

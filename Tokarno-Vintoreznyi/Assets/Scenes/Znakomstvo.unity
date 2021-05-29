@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44478568, g: 0.49432957, b: 0.57353187, a: 1}
+  m_IndirectSpecularColor: {r: 0.44478542, g: 0.4943292, b: 0.5735314, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -254,6 +254,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 743472867c696be48953acb0613f5e04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Image_Shesterenki: {fileID: 0}
 --- !u!114 &373103045
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -400,6 +401,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 743472867c696be48953acb0613f5e04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Image_Shesterenki: {fileID: 0}
 --- !u!114 &397052315
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1026,6 +1028,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 743472867c696be48953acb0613f5e04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Image_Shesterenki: {fileID: 0}
 --- !u!114 &1261419883
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1172,6 +1175,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 743472867c696be48953acb0613f5e04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Image_Shesterenki: {fileID: 0}
 --- !u!114 &1261440644
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1570,10 +1574,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -1634,6 +1638,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 743472867c696be48953acb0613f5e04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Image_Shesterenki: {fileID: 0}
 --- !u!1 &1671762686
 GameObject:
   m_ObjectHideFlags: 0
@@ -1827,6 +1832,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 743472867c696be48953acb0613f5e04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Image_Shesterenki: {fileID: 0}
 --- !u!114 &1822667945
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1973,6 +1979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 743472867c696be48953acb0613f5e04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Image_Shesterenki: {fileID: 0}
 --- !u!114 &1869102771
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2200,6 +2207,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 743472867c696be48953acb0613f5e04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Image_Shesterenki: {fileID: 0}
 --- !u!114 &1953722631
 MonoBehaviour:
   m_ObjectHideFlags: 0

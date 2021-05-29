@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
-{
+{    
     public void ObzorStankaPressed()
     {                
        SceneManager.LoadScene("StanokScene");        
@@ -57,9 +57,18 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("PerednyaBabkaVerh");
     }
+    public void ZamenaShesterni2Pressed()
+    {
+        SceneManager.LoadScene("ZamenaShesterni2");
+    }
     public void GitaraPressed()
     {
         SceneManager.LoadScene("Smenahesterenok");
+    }
+    public GameObject Image_Shesterenki;
+    public void GoAnimationPressed()
+    {
+        Image_Shesterenki.gameObject.SetActive(false);        
     }
     public void PosledovatelnostPressed()
     {
