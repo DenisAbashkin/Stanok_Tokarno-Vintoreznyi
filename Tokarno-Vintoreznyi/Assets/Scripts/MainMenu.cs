@@ -41,6 +41,10 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("ZadnyaBabka");
     }
+    public void UpravlenieZadnyaPressed()
+    {
+        SceneManager.LoadScene("UpravlenieZad");
+    }
     public void PeredBabkaPressed()
     {
         SceneManager.LoadScene("PednyaBabka");
@@ -52,6 +56,10 @@ public class MainMenu : MonoBehaviour
     public void OboznacheniePressed()
     {
         SceneManager.LoadScene("Oboznachenie");
+    }
+    public void OboznachenieRezezPressed()
+    {
+        SceneManager.LoadScene("OboznachenieRezez");
     }
     public void PerednyaBabkaMechPressed()
     {

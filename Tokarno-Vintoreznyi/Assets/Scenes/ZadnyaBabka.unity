@@ -2976,6 +2976,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3e8c74605def6e4b95c81719c2dfe25, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  glowObj: {fileID: 0}
 --- !u!114 &963194232
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5382,8 +5383,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1560798317}
   m_HandleRect: {fileID: 1560798316}
   m_Direction: 2
-  m_Value: 0.772868
-  m_Size: 0.10062859
+  m_Value: 0.7728679
+  m_Size: 0.100628585
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -12026,7 +12027,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 676048722c27d844daf1a6f62cdb6941, type: 2}
+  - {fileID: 2100000, guid: 8148fcecae6cc0a4f8eed5eb3de37ebe, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

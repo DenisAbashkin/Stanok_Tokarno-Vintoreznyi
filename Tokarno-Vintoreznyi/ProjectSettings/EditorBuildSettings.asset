@@ -77,4 +77,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PerednyaBabkaVerh.unity
     guid: 58ce707dda3d5e6428398304c92030eb
+  - enabled: 1
+    path: Assets/Scenes/UpravlenieZad.unity
+    guid: d6360604839d7ba42b468a806fa74d8b
+  - enabled: 1
+    path: Assets/Scenes/OboznachenieRezez.unity
+    guid: 8850c728d0436fa4f9723fda7afc907f
   m_configObjects: {}

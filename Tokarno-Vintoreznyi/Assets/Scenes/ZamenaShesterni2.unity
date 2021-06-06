@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.4481098, g: 0.49811852, b: 0.57554036, a: 1}
+  m_IndirectSpecularColor: {r: 0.4481095, g: 0.49811834, b: 0.5755401, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -651,7 +651,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 291196635}
         m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
-        m_MethodName: ZadnyaPressed
+        m_MethodName: GitaraPressed
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -3051,6 +3051,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3e8c74605def6e4b95c81719c2dfe25, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  glowObj: {fileID: 0}
 --- !u!114 &963194232
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3686,6 +3687,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3e8c74605def6e4b95c81719c2dfe25, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  glowObj: {fileID: 0}
 --- !u!114 &1125151408
 MonoBehaviour:
   m_ObjectHideFlags: 0
