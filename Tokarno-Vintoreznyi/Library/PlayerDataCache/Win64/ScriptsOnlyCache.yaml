@@ -5,6 +5,7 @@ ScriptsOnlyBuild:
     - CameraController
     - ChangeCamera
     - Clicker
+    - CylinderGenerateScript
     - DisplayUI
     - DisplayUI10
     - DisplayUI11
@@ -50,7 +51,6 @@ ScriptsOnlyBuild:
     - DisplayUI9
     - GlowComposite
     - GlowController
-    - GlowObject
     - GlowObjectCmd
     - InputControl
     - MainMenu
@@ -74,6 +74,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
     - UnityEngine.UI.Mask
+    - UnityEngine.UI.Outline
     - UnityEngine.UI.ScrollRect
     - UnityEngine.UI.Scrollbar
     - UnityEngine.UI.Text
@@ -667,8 +668,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3622}
     - Class: 114
-      Script: {instanceID: 3630}
-    - Class: 114
       Script: {instanceID: 3686}
     - Class: 114
       Script: {instanceID: 3706}
@@ -835,6 +834,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 3772}
     - Class: 114
       Script: {instanceID: 3792}
+    - Class: 114
+      Script: {instanceID: 182456}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1182,6 +1183,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 84
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 91
@@ -1353,6 +1356,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 84
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 91
@@ -1381,6 +1386,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 1608}
     - Class: 114
       Script: {instanceID: 1620}
+    - Class: 114
+      Script: {instanceID: 1624}
     - Class: 114
       Script: {instanceID: 1652}
     - Class: 114
@@ -1523,6 +1530,8 @@ ScriptsOnlyBuild:
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 84
       Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
@@ -1695,6 +1704,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 84
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 91
@@ -1865,6 +1876,8 @@ ScriptsOnlyBuild:
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 84
       Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
@@ -3686,6 +3699,181 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 224
       Script: {instanceID: 0}
+    Assets/Scenes/ZagotovkaRezba.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1446}
+    - Class: 114
+      Script: {instanceID: 1500}
+    - Class: 114
+      Script: {instanceID: 1514}
+    - Class: 114
+      Script: {instanceID: 1530}
+    - Class: 114
+      Script: {instanceID: 1558}
+    - Class: 114
+      Script: {instanceID: 1588}
+    - Class: 114
+      Script: {instanceID: 1600}
+    - Class: 114
+      Script: {instanceID: 1608}
+    - Class: 114
+      Script: {instanceID: 1620}
+    - Class: 114
+      Script: {instanceID: 1648}
+    - Class: 114
+      Script: {instanceID: 1652}
+    - Class: 114
+      Script: {instanceID: 1672}
+    - Class: 114
+      Script: {instanceID: 1712}
+    - Class: 114
+      Script: {instanceID: 1768}
+    - Class: 114
+      Script: {instanceID: 1790}
+    - Class: 114
+      Script: {instanceID: 1810}
+    - Class: 114
+      Script: {instanceID: 1812}
+    - Class: 114
+      Script: {instanceID: 1858}
+    - Class: 114
+      Script: {instanceID: 1888}
+    - Class: 114
+      Script: {instanceID: 1982}
+    - Class: 114
+      Script: {instanceID: 2020}
+    - Class: 114
+      Script: {instanceID: 2034}
+    - Class: 114
+      Script: {instanceID: 2044}
+    - Class: 114
+      Script: {instanceID: 2134}
+    - Class: 114
+      Script: {instanceID: 2292}
+    - Class: 114
+      Script: {instanceID: 2304}
+    - Class: 114
+      Script: {instanceID: 2686}
+    - Class: 114
+      Script: {instanceID: 2690}
+    - Class: 114
+      Script: {instanceID: 2718}
+    - Class: 114
+      Script: {instanceID: 2722}
+    - Class: 114
+      Script: {instanceID: 2738}
+    - Class: 114
+      Script: {instanceID: 2774}
+    - Class: 114
+      Script: {instanceID: 2848}
+    - Class: 114
+      Script: {instanceID: 2908}
+    - Class: 114
+      Script: {instanceID: 2920}
+    - Class: 114
+      Script: {instanceID: 2946}
+    - Class: 114
+      Script: {instanceID: 2950}
+    - Class: 114
+      Script: {instanceID: 3020}
+    - Class: 114
+      Script: {instanceID: 3024}
+    - Class: 114
+      Script: {instanceID: 3060}
+    - Class: 114
+      Script: {instanceID: 3148}
+    - Class: 114
+      Script: {instanceID: 3300}
+    - Class: 114
+      Script: {instanceID: 3378}
+    - Class: 114
+      Script: {instanceID: 3450}
+    - Class: 114
+      Script: {instanceID: 3472}
+    - Class: 114
+      Script: {instanceID: 3474}
+    - Class: 114
+      Script: {instanceID: 3506}
+    - Class: 114
+      Script: {instanceID: 3510}
+    - Class: 114
+      Script: {instanceID: 3566}
+    - Class: 114
+      Script: {instanceID: 3576}
+    - Class: 114
+      Script: {instanceID: 3578}
+    - Class: 114
+      Script: {instanceID: 3600}
+    - Class: 114
+      Script: {instanceID: 3622}
+    - Class: 114
+      Script: {instanceID: 3682}
+    - Class: 114
+      Script: {instanceID: 3686}
+    - Class: 114
+      Script: {instanceID: 3706}
+    - Class: 114
+      Script: {instanceID: 3708}
+    - Class: 114
+      Script: {instanceID: 3738}
+    - Class: 114
+      Script: {instanceID: 3772}
+    - Class: 114
+      Script: {instanceID: 3792}
+    - Class: 114
+      Script: {instanceID: 182456}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
     Assets/Scenes/ZamenaShesterenok.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -4880,6 +5068,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: DisplayUI34
+  - hash:
+      serializedVersion: 2
+      Hash: bd6d8f960889970d891cf678173d18d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CylinderGenerateScript
   platform: 19
   scenePathNames:
   - Assets/Scenes/Menu.unity
@@ -4913,4 +5107,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Rezba3.unity
   - Assets/Scenes/Rezba4.unity
   - Assets/Scenes/Rezba5.unity
+  - Assets/Scenes/ZagotovkaRezba.unity
   playerPath: E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi.exe

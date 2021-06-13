@@ -310,7 +310,6 @@ GameObject:
   - component: {fileID: 61895418}
   - component: {fileID: 61895417}
   - component: {fileID: 61895416}
-  - component: {fileID: 61895415}
   - component: {fileID: 61895414}
   m_Layer: 0
   m_Name: TeloPerednyaKorobka
@@ -332,20 +331,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.109689, y: 0.51857597, z: 0.905718}
   m_Center: {x: 0.03776151, y: 1.07473, z: 0}
---- !u!114 &61895415
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 61895413}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2c8bd5900ca5d524b90a29dd617b0ee1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  GlowColor: {r: 0.025627613, g: 1, b: 0, a: 0}
-  LerpFactor: 10
 --- !u!114 &61895416
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9616,9 +9601,7 @@ GameObject:
   - component: {fileID: 6477100587022972552}
   - component: {fileID: 1699260831736363834}
   - component: {fileID: 1699260831736363837}
-  - component: {fileID: 1699260831736363838}
   - component: {fileID: 1699260831736363836}
-  - component: {fileID: 1699260831736363835}
   m_Layer: 0
   m_Name: Perednya_babka
   m_TagString: Untagged
@@ -9645,20 +9628,6 @@ MonoBehaviour:
   fadeTime: 10
   displayInfo: 0
   PanelToDisable: {fileID: 0}
---- !u!114 &1699260831736363835
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1699260831736363833}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2c8bd5900ca5d524b90a29dd617b0ee1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  GlowColor: {r: 0, g: 1, b: 0.050011873, a: 0}
-  LerpFactor: 10
 --- !u!65 &1699260831736363836
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9690,20 +9659,6 @@ MonoBehaviour:
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
---- !u!114 &1699260831736363838
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1699260831736363833}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 07774ac70bfcc71409a676a7687645fa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  GlowColor: {r: 0, g: 1, b: 0.041554213, a: 0}
-  LerpFactor: 10
 --- !u!33 &1735981907713617358
 MeshFilter:
   m_ObjectHideFlags: 0

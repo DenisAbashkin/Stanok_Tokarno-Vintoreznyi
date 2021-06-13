@@ -89,6 +89,10 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Rezba5");
     }
+    public void ZagotovkaRezbaPressed()
+    {
+        SceneManager.LoadScene("ZagotovkaRezba");
+    }
     public void GitaraPressed()
     {
         SceneManager.LoadScene("Smenahesterenok");
