@@ -13,7 +13,7 @@ public class DisplayUI : MonoBehaviour
     public bool displayInfo;
     public GameObject PanelToDisable;
 
-    // Start is called before the first frame update
+    
     void Start()
     {
         myText = GameObject.Find("Text").GetComponent<Text>();
@@ -21,14 +21,11 @@ public class DisplayUI : MonoBehaviour
         PanelToDisable.SetActive(false);
     }
 
-    // Update is called once per frame
+  
     void Update()
     {
         FadeText();
-        //if (Input.GetKeyDown(KeyCode.Escape))
-        //{
-        //    Screen.lockCursor = false;
-        //}
+       
     }
 
     private void OnMouseOver()

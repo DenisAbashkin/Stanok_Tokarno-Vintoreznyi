@@ -3,7 +3,12 @@ guid: 2a5674cde12fc8e4092ea28121bce14c
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: electro_Fara_initialShadingGroup
+    second: {fileID: 2100000, guid: 665ebbc4518d7314d947f6bfcc6bb19d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

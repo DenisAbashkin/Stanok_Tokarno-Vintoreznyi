@@ -1,54 +1,387 @@
 Using pre-set license
 Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home Single Language; OS build 19041.928; Version 2004; 64bit' Language: 'ru' Physical Memory: 3533 MB
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'ru' Physical Memory: 16344 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.3.2f1\Editor\Unity.exe
+D:\Program\Unity\2020.3.2f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Denis/Desktop/Stanok_Tokarno-VintoreznyiNewPeresdacha/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi
+E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49678
-Successfully changed project path to: C:/Users/Denis/Desktop/Stanok_Tokarno-VintoreznyiNewPeresdacha/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi
-C:/Users/Denis/Desktop/Stanok_Tokarno-VintoreznyiNewPeresdacha/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi
+57952
+Successfully changed project path to: E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi
+E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 81.37 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 29.88 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Denis/Desktop/Stanok_Tokarno-VintoreznyiNewPeresdacha/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi/Assets
+[Subsystems] Discovering subsystems at path D:/Program/Unity/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.0]
-    Renderer: AMD Radeon HD 8550G (ID=0x990d)
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
     Vendor:   
-    VRAM:     497 MB
-    Driver:   15.201.1151.1008
+    VRAM:     8088 MB
+    Driver:   27.21.14.6589
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56996
+Mono path[0] = 'D:/Program/Unity/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program/Unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program/Unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56852
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.266863 seconds.
+Register platform support module: D:/Program/Unity/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001028 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 68.97 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 30.20 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in 14.573 seconds
+- Completed reload, in  1.453 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.027089 seconds.
+Registered in 0.000805 seconds.
 Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.958 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1187 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.4 MB.
+System memory in use after: 60.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1631.
+Total: 1.688800 ms (FindLiveObjects: 0.168000 ms CreateObjectMapping: 0.039300 ms MarkObjects: 1.393600 ms  DeleteObjects: 0.086900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/obj/New Folder/1.png
+  artifactKey: Guid(2c82cc1a7352d5042b913f8e47c1dc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/1.png using Guid(2c82cc1a7352d5042b913f8e47c1dc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70b910cc298b4925d93b680dff469e02') in 0.248100 seconds
+  Import took 0.251451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/obj/New Folder/3.png
+  artifactKey: Guid(3b7a55f142eb6f44d940a8ea75f4d41f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/3.png using Guid(3b7a55f142eb6f44d940a8ea75f4d41f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '496741c12d2bc6451c2141e68ecffcd8') in 0.026366 seconds
+  Import took 0.029633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/obj/New Folder/4.png
+  artifactKey: Guid(bb1396050edee06469cebdc956ca3109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/4.png using Guid(bb1396050edee06469cebdc956ca3109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f50a143bcf979bedb34ecdaba5becc6') in 0.036686 seconds
+  Import took 0.038935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/obj/New Folder/2.png
+  artifactKey: Guid(068f3505a39c6424bb41c7a237f7a570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/2.png using Guid(068f3505a39c6424bb41c7a237f7a570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3ff12fb3d6b71a61c72765a0e665090') in 0.013301 seconds
+  Import took 0.016971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 421.821609 seconds.
+  path: Assets/obj/New Folder/RuchkaCenterABCD 1.obj
+  artifactKey: Guid(e6eec5d9dadb8384ca5f3e9b605f5d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/RuchkaCenterABCD 1.obj using Guid(e6eec5d9dadb8384ca5f3e9b605f5d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1bd8b2047f61050c2451905b96e5553') in 0.146031 seconds
+  Import took 0.148788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.397972 seconds.
+  path: Assets/obj/New Folder/RuchkaCenter1234.obj
+  artifactKey: Guid(e6eec5d9dadb8384ca5f3e9b605f5d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/RuchkaCenter1234.obj using Guid(e6eec5d9dadb8384ca5f3e9b605f5d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4307df43077ef384ec9c165350fdea41') in 0.036277 seconds
+  Import took 0.039557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.424121 seconds.
+  path: Assets/obj/New Folder/1234
+  artifactKey: Guid(32bb3a25eb17b08419a6b747647d0074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/1234 using Guid(32bb3a25eb17b08419a6b747647d0074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a9ef994552935b5c2d64791a291cf0') in 0.013064 seconds
+  Import took 0.037075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.091776 seconds.
+  path: Assets/obj/New Folder/1234/RuchkaCenterABCD_1001_BaseColor.png
+  artifactKey: Guid(38ee143185c2b81439e511e9f4a8c858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/1234/RuchkaCenterABCD_1001_BaseColor.png using Guid(38ee143185c2b81439e511e9f4a8c858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '158731cfa59b78df7ff8e476b5230954') in 0.022591 seconds
+  Import took 0.025038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/obj/New Folder/1234/RuchkaCenterABCD_1001_Roughness.png
+  artifactKey: Guid(8c4672b7d59c1c34b99fca78b8dcac48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/1234/RuchkaCenterABCD_1001_Roughness.png using Guid(8c4672b7d59c1c34b99fca78b8dcac48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4475fab8b72ba1871d06a1c7fe921ed8') in 0.035747 seconds
+  Import took 0.037870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/obj/New Folder/1234/RuchkaCenterABCD_1001_Metallic.png
+  artifactKey: Guid(cee80d922f4741745a43300723b71967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/1234/RuchkaCenterABCD_1001_Metallic.png using Guid(cee80d922f4741745a43300723b71967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33c358f1f00e66837c06d417484213a2') in 0.026671 seconds
+  Import took 0.028706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/obj/New Folder/1234/RuchkaCenterABCD_1001_Height.png
+  artifactKey: Guid(a92291cd121151b44b86ece4d97a8142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/1234/RuchkaCenterABCD_1001_Height.png using Guid(a92291cd121151b44b86ece4d97a8142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f63e2f0657e704e0bcddf7aa7162e8ac') in 0.038969 seconds
+  Import took 0.041127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/obj/New Folder/1234/RuchkaCenterABCD_1001_Normal.png
+  artifactKey: Guid(2fe046ba29b367e4e8e2ae5b5d14a91d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/1234/RuchkaCenterABCD_1001_Normal.png using Guid(2fe046ba29b367e4e8e2ae5b5d14a91d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6302de9f321d576947eae07db6120922') in 0.025041 seconds
+  Import took 0.026853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.231020 seconds.
+  path: Assets/obj/Materials/ABCD.mat
+  artifactKey: Guid(a479fe06a2148174a9363d9ced1260a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Materials/ABCD.mat using Guid(a479fe06a2148174a9363d9ced1260a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8453628012b270dff8aeafab9e8303a5') in 0.051197 seconds
+  Import took 0.053812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002772 seconds.
+  path: Assets/obj/Materials/ABCD.mat
+  artifactKey: Guid(a479fe06a2148174a9363d9ced1260a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Materials/ABCD.mat using Guid(a479fe06a2148174a9363d9ced1260a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8453628012b270dff8aeafab9e8303a5') in 0.024962 seconds
+  Import took 0.028175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.301938 seconds.
+  path: Assets/obj/New Folder/RuchkaCenter1234.obj
+  artifactKey: Guid(e6eec5d9dadb8384ca5f3e9b605f5d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/RuchkaCenter1234.obj using Guid(e6eec5d9dadb8384ca5f3e9b605f5d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21f6bb1ac39f35f1d48b91c0b7e056e5') in 0.032831 seconds
+  Import took 0.035032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 301.722703 seconds.
+  path: Assets/obj/Materials/1234.mat
+  artifactKey: Guid(9adf1da13928d5e4aa86ea866ac435ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Materials/1234.mat using Guid(9adf1da13928d5e4aa86ea866ac435ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e3b8bbb13544ec922a636bda0be67a8') in 0.027796 seconds
+  Import took 0.031056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7484.232904 seconds.
+  path: Assets/obj/Materials/PeredNiz.mat
+  artifactKey: Guid(4ba38cd331d5c684c92818af412b1919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Materials/PeredNiz.mat using Guid(4ba38cd331d5c684c92818af412b1919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df60e692a6a2adf1279eeba9275fcf0') in 0.056114 seconds
+  Import took 0.090022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.960104 seconds.
+  path: Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_BaseColor.png
+  artifactKey: Guid(cce6e5b71fd0aec43a57675e8d80855c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_BaseColor.png using Guid(cce6e5b71fd0aec43a57675e8d80855c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42fe1b974d783c52524bbc39f3b79fd1') in 0.016702 seconds
+  Import took 0.018726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_Roughness.png
+  artifactKey: Guid(bedd3b72a6bc97844a1b16d98694cdfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_Roughness.png using Guid(bedd3b72a6bc97844a1b16d98694cdfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e29ba3e116b8f6dea281fb3d7c91bbf') in 0.017973 seconds
+  Import took 0.020727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000785 seconds.
+  path: Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_Normal.png
+  artifactKey: Guid(dda14bf02f1e8b04383e8b936ae94e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_Normal.png using Guid(dda14bf02f1e8b04383e8b936ae94e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5935d4499dbac2a7a86c35b548c5f746') in 0.020994 seconds
+  Import took 0.025212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_Metallic.png
+  artifactKey: Guid(5cbc413b625da564cb2fb8b9a4576bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_Metallic.png using Guid(5cbc413b625da564cb2fb8b9a4576bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c91104786d5125a7d1a853382e6235f') in 0.039537 seconds
+  Import took 0.041788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_Height.png
+  artifactKey: Guid(d61ae3ca481a9a64680833d2f9670954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_Height.png using Guid(d61ae3ca481a9a64680833d2f9670954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72a66460766a6204078e08f630559b19') in 0.042370 seconds
+  Import took 0.044808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.694719 seconds.
+  path: Assets/obj/New Folder/TeloPeredNiz.obj
+  artifactKey: Guid(041d80f354c0daa4ba193a87bfdf1cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/TeloPeredNiz.obj using Guid(041d80f354c0daa4ba193a87bfdf1cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7e2fdced111689f1ca9a8f103820697') in 0.029583 seconds
+  Import took 0.032002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.250707 seconds.
+  path: Assets/obj/New Folder/TeloPeredNiz.obj
+  artifactKey: Guid(041d80f354c0daa4ba193a87bfdf1cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/TeloPeredNiz.obj using Guid(041d80f354c0daa4ba193a87bfdf1cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034c688392ce4a0aa89b4bcdf9e1520e') in 0.027663 seconds
+  Import took 0.030746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 270.404259 seconds.
+  path: Assets/obj/Materials/PeredNiz.mat
+  artifactKey: Guid(4ba38cd331d5c684c92818af412b1919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Materials/PeredNiz.mat using Guid(4ba38cd331d5c684c92818af412b1919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93f02bf549d6e68f7b01670e158b5d46') in 0.027920 seconds
+  Import took 0.030206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4241.903363 seconds.
+  path: Assets/obj/New Folder/RuchkaPodach/RuchkaCenterABCD_1001_BaseColor.png
+  artifactKey: Guid(7d4aa006267d90f458109204c6ed34d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/RuchkaPodach/RuchkaCenterABCD_1001_BaseColor.png using Guid(7d4aa006267d90f458109204c6ed34d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56978644ce3df38fce68a92934e02588') in 0.047854 seconds
+  Import took 0.066801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/obj/New Folder/RuchkaPodach/RuchkaCenterABCD_1001_Normal.png
+  artifactKey: Guid(9f6a3caddb3089340ac3f65281c678fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/RuchkaPodach/RuchkaCenterABCD_1001_Normal.png using Guid(9f6a3caddb3089340ac3f65281c678fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8884a9a44fae9feaddefde32303de027') in 0.029546 seconds
+  Import took 0.031904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/obj/New Folder/RuchkaPodach/RuchkaCenterABCD_1001_Height.png
+  artifactKey: Guid(753d663d190634745a4444c77ee26af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/RuchkaPodach/RuchkaCenterABCD_1001_Height.png using Guid(753d663d190634745a4444c77ee26af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cef0ba97e9a521cb2703b386a4fe679') in 0.027342 seconds
+  Import took 0.029586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/obj/New Folder/RuchkaPodach/RuchkaCenterABCD_1001_Roughness.png
+  artifactKey: Guid(18ccdf5c70a3abd43a59e18b5f5179a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/RuchkaPodach/RuchkaCenterABCD_1001_Roughness.png using Guid(18ccdf5c70a3abd43a59e18b5f5179a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4d0b2e2cb2746642919f08811c5a74f') in 0.029561 seconds
+  Import took 0.031651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/obj/New Folder/RuchkaPodach/RuchkaCenterABCD_1001_Metallic.png
+  artifactKey: Guid(7a55ce583b403814eba6f863521368e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/RuchkaPodach/RuchkaCenterABCD_1001_Metallic.png using Guid(7a55ce583b403814eba6f863521368e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd460a972b08b82bb14fedbc6f10eccf9') in 0.029723 seconds
+  Import took 0.031579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.067561 seconds.
+  path: Assets/obj/New Folder/RuchkaCenterNiz2Centr.obj
+  artifactKey: Guid(aae8971061705b44fa94199c847772bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/RuchkaCenterNiz2Centr.obj using Guid(aae8971061705b44fa94199c847772bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '662b59568ce6cab7a0a2877a72b1f160') in 0.032175 seconds
+  Import took 0.034432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/obj/New Folder/RuchkaPodach2.png
+  artifactKey: Guid(5e7a6000fdcee5147a76cd02066d5fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/RuchkaPodach2.png using Guid(5e7a6000fdcee5147a76cd02066d5fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c11d3fa6b261c727b40970d7b74aff8') in 0.017713 seconds
+  Import took 0.026425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/obj/New Folder/RuchkaPodach4.png
+  artifactKey: Guid(bb2c2026d7d311645bd479334eadbdd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/RuchkaPodach4.png using Guid(bb2c2026d7d311645bd479334eadbdd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a63b168495380e56c84ff8b5fc66238a') in 0.014017 seconds
+  Import took 0.016402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/obj/New Folder/RuchkaPodach1.png
+  artifactKey: Guid(2a0bc4d920de91e46a7c59b93e8cd4bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/RuchkaPodach1.png using Guid(2a0bc4d920de91e46a7c59b93e8cd4bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f4dcf0b525537f00ac7d2b0a6728cf7') in 0.018726 seconds
+  Import took 0.021803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/obj/New Folder/RuchkaPodach3.png
+  artifactKey: Guid(ebb95fba39520a043b83588616cef338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/RuchkaPodach3.png using Guid(ebb95fba39520a043b83588616cef338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4b341b351a41f480fab1cc853a497bf') in 0.020286 seconds
+  Import took 0.022575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.663024 seconds.
+  path: Assets/obj/New Folder/RuchkaCenterNiz2Centr.obj
+  artifactKey: Guid(aae8971061705b44fa94199c847772bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/RuchkaCenterNiz2Centr.obj using Guid(aae8971061705b44fa94199c847772bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '170d37a266c2919129488bebc3d7af6f') in 0.048129 seconds
+  Import took 0.050956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.373201 seconds.
+  path: Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_BaseColor.png
+  artifactKey: Guid(cce6e5b71fd0aec43a57675e8d80855c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_BaseColor.png using Guid(cce6e5b71fd0aec43a57675e8d80855c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0db236f46278fcfae7b4374f05d46e73') in 0.008389 seconds
+  Import took 0.011109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_Normal.png
+  artifactKey: Guid(dda14bf02f1e8b04383e8b936ae94e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_Normal.png using Guid(dda14bf02f1e8b04383e8b936ae94e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765b92c23c276f4ac73b5fe368b9c4dc') in 0.011106 seconds
+  Import took 0.013052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_Height.png
+  artifactKey: Guid(d61ae3ca481a9a64680833d2f9670954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New Folder/PeredNiz/TeloPeredNiz_1001_Height.png using Guid(d61ae3ca481a9a64680833d2f9670954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc057f0ab8825cce55efe248ba755878') in 0.014535 seconds
+  Import took 0.016736 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

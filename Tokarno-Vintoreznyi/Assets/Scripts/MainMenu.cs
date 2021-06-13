@@ -69,6 +69,26 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("ZamenaShesterni2");
     }
+    public void RezbaPressed()
+    {
+        SceneManager.LoadScene("Rezba");
+    }
+    public void Rezba2Pressed()
+    {
+        SceneManager.LoadScene("Rezba2");
+    }
+    public void Rezba3Pressed()
+    {
+        SceneManager.LoadScene("Rezba3");
+    }
+    public void Rezba4Pressed()
+    {
+        SceneManager.LoadScene("Rezba4");
+    }
+    public void Rezba5Pressed()
+    {
+        SceneManager.LoadScene("Rezba5");
+    }
     public void GitaraPressed()
     {
         SceneManager.LoadScene("Smenahesterenok");

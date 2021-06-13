@@ -3,7 +3,12 @@ guid: f9cf0b58e4d6a864892df40a2d78a889
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electro_plata_initialShadingGroup
+    second: {fileID: 2100000, guid: d31ce4d5773a5774daa26a7b79732074, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

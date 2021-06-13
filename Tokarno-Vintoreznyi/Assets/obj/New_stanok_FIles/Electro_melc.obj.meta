@@ -3,7 +3,12 @@ guid: cbb441da106b4684aa4075774f83199a
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electro_melc_initialShadingGroup
+    second: {fileID: 2100000, guid: d46fc3327ee613f4794570b0de2013ff, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

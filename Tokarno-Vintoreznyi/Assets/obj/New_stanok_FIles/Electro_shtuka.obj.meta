@@ -3,7 +3,12 @@ guid: fe4a14a508b8b5e46abc90941cff3df3
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electro_shtuka_initialShadingGroup
+    second: {fileID: 2100000, guid: efb3af813725c194789185829ea116e6, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
