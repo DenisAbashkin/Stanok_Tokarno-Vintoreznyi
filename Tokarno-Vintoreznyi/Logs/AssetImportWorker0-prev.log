@@ -15,11 +15,11 @@ E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54078
+55316
 Successfully changed project path to: E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi
 E:/Diplom/GitHub/Stanok_Tokarno-Vintoreznyi/Tokarno-Vintoreznyi
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 29.84 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 30.34 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
 [Subsystems] Discovering subsystems at path D:/Program/Unity/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
@@ -35,22 +35,22 @@ Initialize mono
 Mono path[0] = 'D:/Program/Unity/2020.3.2f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Program/Unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program/Unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56624
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56200
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program/Unity/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001694 seconds.
+Registered in 0.128446 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 30.96 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 29.30 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.576 seconds
+- Completed reload, in  4.197 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000617 seconds.
+Registered in 0.049359 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
@@ -59,757 +59,296 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.989 seconds
+- Completed reload, in  1.995 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.16 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1187 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 60.4 MB.
-System memory in use after: 60.5 MB.
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 1.951500 ms (FindLiveObjects: 0.309000 ms CreateObjectMapping: 0.252800 ms MarkObjects: 1.325800 ms  DeleteObjects: 0.062800 ms)
+Total: 1.969400 ms (FindLiveObjects: 0.139900 ms CreateObjectMapping: 0.048100 ms MarkObjects: 1.699200 ms  DeleteObjects: 0.081300 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/Naznachenie.unity
-  artifactKey: Guid(7ff28ea2c0e193a4b836dfe1d378fe0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Naznachenie.unity using Guid(7ff28ea2c0e193a4b836dfe1d378fe0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d9db15118bace3ddbaa1e4e83ed88e2') in 0.026595 seconds
-  Import took 0.030801 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.3 MB.
-System memory in use after: 36.4 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 2.122500 ms (FindLiveObjects: 0.254300 ms CreateObjectMapping: 0.038200 ms MarkObjects: 1.815700 ms  DeleteObjects: 0.013300 ms)
+  path: Assets/Scenes/StanokScene 2.unity
+  artifactKey: Guid(7300520a7afa61849944c61dd1a4fe05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StanokScene 2.unity using Guid(7300520a7afa61849944c61dd1a4fe05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b119dc17775e2fe7f8308450ac72bea') in 0.033575 seconds
+  Import took 0.035462 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 136.999747 seconds.
-  path: Assets/Scenes/StanokScene.unity
-  artifactKey: Guid(4ffd342f4ab074d40856d47c1600cffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/StanokScene.unity using Guid(4ffd342f4ab074d40856d47c1600cffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d268cb822b65583cd9e0a914efc2373') in 0.019765 seconds
-  Import took 0.021885 seconds .
+  Time since last request: 3.278619 seconds.
+  path: Assets/Scenes/ZagotovkaRezba.unity
+  artifactKey: Guid(7300520a7afa61849944c61dd1a4fe05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ZagotovkaRezba.unity using Guid(7300520a7afa61849944c61dd1a4fe05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c3d425dff0d4ba66a232f5ee3e6152f') in 0.008013 seconds
+  Import took 0.010436 seconds .
 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Registering precompiled user dll's ...
+Registered in 0.000582 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.3 MB.
-System memory in use after: 36.4 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 3.752400 ms (FindLiveObjects: 0.121400 ms CreateObjectMapping: 0.034000 ms MarkObjects: 3.579800 ms  DeleteObjects: 0.015800 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.825 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.3 MB.
-System memory in use after: 36.4 MB.
+Unloading 1175 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.9 MB.
+System memory in use after: 60.0 MB.
 
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 1.776100 ms (FindLiveObjects: 0.137500 ms CreateObjectMapping: 0.036600 ms MarkObjects: 1.585900 ms  DeleteObjects: 0.014000 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.3 MB.
-System memory in use after: 36.4 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 1.818800 ms (FindLiveObjects: 0.190700 ms CreateObjectMapping: 0.040800 ms MarkObjects: 1.570500 ms  DeleteObjects: 0.015100 ms)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1634.
+Total: 1.523200 ms (FindLiveObjects: 0.119400 ms CreateObjectMapping: 0.033600 ms MarkObjects: 1.357100 ms  DeleteObjects: 0.012200 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 371.353503 seconds.
-  path: Assets/Scenes/StanokScene.unity
-  artifactKey: Guid(4ffd342f4ab074d40856d47c1600cffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/StanokScene.unity using Guid(4ffd342f4ab074d40856d47c1600cffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2be1191bcc22920527b65208c74e326e') in 0.002902 seconds
-  Import took 0.009140 seconds .
+  Time since last request: 177.673672 seconds.
+  path: Assets/Scenes/MenuOrgani.unity
+  artifactKey: Guid(7318d46c07afba94982b7241c45028f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MenuOrgani.unity using Guid(7318d46c07afba94982b7241c45028f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85ea1bcd9c29d1888a73b7916af19512') in 0.022882 seconds
+  Import took 0.025876 seconds .
 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.3 MB.
-System memory in use after: 36.4 MB.
+System memory in use before: 36.7 MB.
+System memory in use after: 36.8 MB.
 
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 2.744800 ms (FindLiveObjects: 0.399800 ms CreateObjectMapping: 0.096300 ms MarkObjects: 2.233200 ms  DeleteObjects: 0.013700 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.3 MB.
-System memory in use after: 36.4 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 1.853200 ms (FindLiveObjects: 0.153800 ms CreateObjectMapping: 0.040600 ms MarkObjects: 1.643700 ms  DeleteObjects: 0.013700 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.3 MB.
-System memory in use after: 36.4 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 2.430000 ms (FindLiveObjects: 0.140700 ms CreateObjectMapping: 0.042000 ms MarkObjects: 2.232200 ms  DeleteObjects: 0.013600 ms)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1634.
+Total: 3.409800 ms (FindLiveObjects: 0.127100 ms CreateObjectMapping: 0.035700 ms MarkObjects: 3.228100 ms  DeleteObjects: 0.017000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 292.195581 seconds.
-  path: Assets/Scenes/Naznachenie.unity
-  artifactKey: Guid(7ff28ea2c0e193a4b836dfe1d378fe0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Naznachenie.unity using Guid(7ff28ea2c0e193a4b836dfe1d378fe0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5caac4b6082c46d0873363d3968410cb') in 0.020622 seconds
-  Import took 0.022591 seconds .
+  Time since last request: 362.603921 seconds.
+  path: Assets/Scenes/PerednyaBabkaVerh.unity
+  artifactKey: Guid(58ce707dda3d5e6428398304c92030eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PerednyaBabkaVerh.unity using Guid(58ce707dda3d5e6428398304c92030eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b232f1e8fce3a1884a1a9e38ed256fe') in 0.018843 seconds
+  Import took 0.021161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.088743 seconds.
+  path: Assets/Scenes/ZamenaShesterni2.unity
+  artifactKey: Guid(780391ae76311ea429dc2e5d6cb414a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ZamenaShesterni2.unity using Guid(780391ae76311ea429dc2e5d6cb414a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14041af57de04195f88793cfeae55170') in 0.015118 seconds
+  Import took 0.017270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.239149 seconds.
+  path: Assets/Scenes/ZagotovkaRezba.unity
+  artifactKey: Guid(7300520a7afa61849944c61dd1a4fe05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ZagotovkaRezba.unity using Guid(7300520a7afa61849944c61dd1a4fe05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96441353aac2b428bdcbe324c01ca251') in 0.013902 seconds
+  Import took 0.016172 seconds .
 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Registering precompiled user dll's ...
+Registered in 0.000628 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.3 MB.
-System memory in use after: 36.4 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 1.921600 ms (FindLiveObjects: 0.203400 ms CreateObjectMapping: 0.039900 ms MarkObjects: 1.664900 ms  DeleteObjects: 0.012500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 104.087635 seconds.
-  path: Assets/Scenes/StanokScene.unity
-  artifactKey: Guid(4ffd342f4ab074d40856d47c1600cffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/StanokScene.unity using Guid(4ffd342f4ab074d40856d47c1600cffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce8ae3b67d0437c29a7ff4fcefd2a99') in 0.037669 seconds
-  Import took 0.047944 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.865 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.3 MB.
-System memory in use after: 36.4 MB.
+Unloading 1176 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.0 MB.
+System memory in use after: 60.1 MB.
 
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 2.422500 ms (FindLiveObjects: 0.130600 ms CreateObjectMapping: 0.039700 ms MarkObjects: 2.236100 ms  DeleteObjects: 0.014600 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.3 MB.
-System memory in use after: 36.4 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 2.036400 ms (FindLiveObjects: 0.291600 ms CreateObjectMapping: 0.047800 ms MarkObjects: 1.682600 ms  DeleteObjects: 0.013000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 193.074357 seconds.
-  path: Assets/Scenes/StanokScene.unity
-  artifactKey: Guid(4ffd342f4ab074d40856d47c1600cffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/StanokScene.unity using Guid(4ffd342f4ab074d40856d47c1600cffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '844b6e220861d21daba40b747598d5fd') in 0.006443 seconds
-  Import took 0.009644 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 52.038192 seconds.
-  path: Assets/Scenes/Naznachenie.unity
-  artifactKey: Guid(7ff28ea2c0e193a4b836dfe1d378fe0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Naznachenie.unity using Guid(7ff28ea2c0e193a4b836dfe1d378fe0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '642101c4261295076c0b5c94c38bc271') in 0.006061 seconds
-  Import took 0.008042 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.550484 seconds.
-  path: Assets/Scenes/StanokScene.unity
-  artifactKey: Guid(4ffd342f4ab074d40856d47c1600cffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/StanokScene.unity using Guid(4ffd342f4ab074d40856d47c1600cffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1079b5661f64178d54c15eff9ed58ab4') in 0.009558 seconds
-  Import took 0.011748 seconds .
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1638.
+Total: 1.568000 ms (FindLiveObjects: 0.126800 ms CreateObjectMapping: 0.034400 ms MarkObjects: 1.392100 ms  DeleteObjects: 0.013700 ms)
 
 ========================================================================
 Received Prepare
 Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.4 MB.
-System memory in use after: 36.5 MB.
+System memory in use before: 36.7 MB.
+System memory in use after: 36.8 MB.
 
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 2.399100 ms (FindLiveObjects: 0.217000 ms CreateObjectMapping: 0.077500 ms MarkObjects: 2.090700 ms  DeleteObjects: 0.012500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 142.326711 seconds.
-  path: Assets/Scenes/StanokScene.unity
-  artifactKey: Guid(4ffd342f4ab074d40856d47c1600cffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/StanokScene.unity using Guid(4ffd342f4ab074d40856d47c1600cffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55cff827a4cea75e1ede9fe5211cc005') in 0.009185 seconds
-  Import took 0.011059 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 39.766504 seconds.
-  path: Assets/Scenes/Naznachenie.unity
-  artifactKey: Guid(7ff28ea2c0e193a4b836dfe1d378fe0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Naznachenie.unity using Guid(7ff28ea2c0e193a4b836dfe1d378fe0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbc1b93a00397b2632b3de49ce6a693d') in 0.005062 seconds
-  Import took 0.008516 seconds .
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1638.
+Total: 2.163500 ms (FindLiveObjects: 0.126900 ms CreateObjectMapping: 0.035300 ms MarkObjects: 1.983000 ms  DeleteObjects: 0.016500 ms)
 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.4 MB.
-System memory in use after: 36.5 MB.
+System memory in use before: 36.7 MB.
+System memory in use after: 36.8 MB.
 
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 1.712800 ms (FindLiveObjects: 0.129100 ms CreateObjectMapping: 0.033600 ms MarkObjects: 1.536400 ms  DeleteObjects: 0.012300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 224.530603 seconds.
-  path: Assets/Scenes/PerednyaBabkaVerh.unity
-  artifactKey: Guid(58ce707dda3d5e6428398304c92030eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/PerednyaBabkaVerh.unity using Guid(58ce707dda3d5e6428398304c92030eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c54db823ec5087af349aa8c73f7edd0') in 0.017711 seconds
-  Import took 0.020307 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 50.071088 seconds.
-  path: Assets/Scenes/Posled.unity
-  artifactKey: Guid(9b724818e59e33a4cbbb4d64a0e6c281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Posled.unity using Guid(9b724818e59e33a4cbbb4d64a0e6c281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '372ebcf512ca00e68b38dcf51d2b41e7') in 0.019397 seconds
-  Import took 0.021536 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.4 MB.
-System memory in use after: 36.5 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 2.480500 ms (FindLiveObjects: 0.122600 ms CreateObjectMapping: 0.046400 ms MarkObjects: 2.298500 ms  DeleteObjects: 0.011800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 92.731558 seconds.
-  path: Assets/Scenes/Posledovatelnost.unity
-  artifactKey: Guid(ad69e59cc78fbbc49b7e7c86c6ef8aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Posledovatelnost.unity using Guid(ad69e59cc78fbbc49b7e7c86c6ef8aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da3ff0891aad4129708e6589c5a190f') in 0.017079 seconds
-  Import took 0.019098 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 60.944354 seconds.
-  path: Assets/Scenes/Rezba2.unity
-  artifactKey: Guid(6fd9e1a0576034547a82e23f20651e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba2.unity using Guid(6fd9e1a0576034547a82e23f20651e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7795d6f5e03f3fc4e01400b6016e0fd') in 0.013100 seconds
-  Import took 0.015172 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 55.050088 seconds.
-  path: Assets/Scenes/Rezba4.unity
-  artifactKey: Guid(765c1ad67bd5e10429050e4e7641b71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba4.unity using Guid(765c1ad67bd5e10429050e4e7641b71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1efd140718d21b69c87dad81cab2396') in 0.016332 seconds
-  Import took 0.018440 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 62.881810 seconds.
-  path: Assets/Scenes/Rezba5.unity
-  artifactKey: Guid(a93c071cb29717c4aae081c19a37ed66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba5.unity using Guid(a93c071cb29717c4aae081c19a37ed66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8cbe1357cfe082ecdba4cda61f56b21') in 0.024567 seconds
-  Import took 0.032632 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.4 MB.
-System memory in use after: 36.5 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 2.173600 ms (FindLiveObjects: 0.140100 ms CreateObjectMapping: 0.040900 ms MarkObjects: 1.974400 ms  DeleteObjects: 0.017000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 119.457746 seconds.
-  path: Assets/Scenes/Rezba.unity
-  artifactKey: Guid(f2621ffbd76f0a346994ec8612c8c450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba.unity using Guid(f2621ffbd76f0a346994ec8612c8c450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98632a78288ad28dc8f6a42ae15298c9') in 0.017259 seconds
-  Import took 0.021550 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.412793 seconds.
-  path: Assets/Scenes/Rezba2.unity
-  artifactKey: Guid(6fd9e1a0576034547a82e23f20651e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba2.unity using Guid(6fd9e1a0576034547a82e23f20651e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f0bd051a0c3f9d29a6f3145a963b45') in 0.013646 seconds
-  Import took 0.021601 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.392192 seconds.
-  path: Assets/Scenes/Rezba3.unity
-  artifactKey: Guid(03cb6546fcc436244bcdb2512f38f128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba3.unity using Guid(03cb6546fcc436244bcdb2512f38f128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f919ddeeedcc8b45760618c973d43b38') in 0.012742 seconds
-  Import took 0.015672 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.008273 seconds.
-  path: Assets/Scenes/Rezba4.unity
-  artifactKey: Guid(765c1ad67bd5e10429050e4e7641b71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba4.unity using Guid(765c1ad67bd5e10429050e4e7641b71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d413fcf43c0ddb932d2547bfaa3190') in 0.003444 seconds
-  Import took 0.007603 seconds .
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1638.
+Total: 2.186200 ms (FindLiveObjects: 0.156300 ms CreateObjectMapping: 0.038800 ms MarkObjects: 1.975500 ms  DeleteObjects: 0.013600 ms)
 
 ========================================================================
 Received Prepare
 Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.4 MB.
-System memory in use after: 36.5 MB.
+System memory in use before: 36.7 MB.
+System memory in use after: 36.8 MB.
 
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 2.174100 ms (FindLiveObjects: 0.116100 ms CreateObjectMapping: 0.033300 ms MarkObjects: 2.013300 ms  DeleteObjects: 0.010500 ms)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1638.
+Total: 2.312600 ms (FindLiveObjects: 0.128300 ms CreateObjectMapping: 0.035600 ms MarkObjects: 2.133800 ms  DeleteObjects: 0.013500 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 36.7 MB.
+System memory in use after: 36.8 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1638.
+Total: 1.655800 ms (FindLiveObjects: 0.231700 ms CreateObjectMapping: 0.117900 ms MarkObjects: 1.294000 ms  DeleteObjects: 0.011200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2368.365724 seconds.
+  path: Assets/obj/New_stanok_FIles/New_Zadnya_babka.obj
+  artifactKey: Guid(ac043956f2639fa4082469e95d64e568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New_stanok_FIles/New_Zadnya_babka.obj using Guid(ac043956f2639fa4082469e95d64e568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8abcb39f9c416b3f8f367f940a2f8c44') in 0.379309 seconds
+  Import took 0.383571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.495005 seconds.
+  path: Assets/obj/New_stanok_FIles/VseDrugoe.obj
+  artifactKey: Guid(d380fc6c9e3b8b24e9d21675bc3008a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New_stanok_FIles/VseDrugoe.obj using Guid(d380fc6c9e3b8b24e9d21675bc3008a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '531a883aa6db9e01a454b9d64cfa841c') in 0.108240 seconds
+  Import took 0.111557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.536394 seconds.
+  path: Assets/obj/New_stanok_FIles/Perednya/ShpindelCenter.obj
+  artifactKey: Guid(0a70aa09c2f25a34db2ab8546e992de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New_stanok_FIles/Perednya/ShpindelCenter.obj using Guid(0a70aa09c2f25a34db2ab8546e992de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9a9d9a646d13eff9a9abdc99b3d5f17') in 0.087260 seconds
+  Import took 0.090159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 279.881771 seconds.
+  path: Assets/obj/New_stanok_FIles/Perednya/ShpindelCenter.obj
+  artifactKey: Guid(0a70aa09c2f25a34db2ab8546e992de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New_stanok_FIles/Perednya/ShpindelCenter.obj using Guid(0a70aa09c2f25a34db2ab8546e992de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14d978730c0a7cab3f0a2bebafe6ae99') in 0.074221 seconds
+  Import took 0.076628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.499547 seconds.
+  path: Assets/obj/New_stanok_FIles/Perednya/ShpindelCenter.obj
+  artifactKey: Guid(0a70aa09c2f25a34db2ab8546e992de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/New_stanok_FIles/Perednya/ShpindelCenter.obj using Guid(0a70aa09c2f25a34db2ab8546e992de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd0ea893a2c5164c541c6b058a28a0dd') in 0.071926 seconds
+  Import took 0.075339 seconds .
 
 ========================================================================
 Received Prepare
 Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 36.4 MB.
-System memory in use after: 36.5 MB.
+System memory in use before: 40.8 MB.
+System memory in use after: 40.9 MB.
 
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 2.385300 ms (FindLiveObjects: 0.140900 ms CreateObjectMapping: 0.037700 ms MarkObjects: 2.187300 ms  DeleteObjects: 0.017300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 480.354731 seconds.
-  path: Assets/Scenes/Rezba4.unity
-  artifactKey: Guid(765c1ad67bd5e10429050e4e7641b71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba4.unity using Guid(765c1ad67bd5e10429050e4e7641b71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ade30b535c3a1345f30220b6a027c561') in 0.005652 seconds
-  Import took 0.007748 seconds .
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1681.
+Total: 2.337400 ms (FindLiveObjects: 0.129900 ms CreateObjectMapping: 0.033600 ms MarkObjects: 2.162000 ms  DeleteObjects: 0.011000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 16.524214 seconds.
-  path: Assets/Scenes/Rezba.unity
-  artifactKey: Guid(f2621ffbd76f0a346994ec8612c8c450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba.unity using Guid(f2621ffbd76f0a346994ec8612c8c450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a3e603fb1df8201e8409975a0008d99') in 0.006321 seconds
-  Import took 0.008351 seconds .
+  Time since last request: 1218.324510 seconds.
+  path: Assets/obj/Materials/!Seri Zagotovka.mat
+  artifactKey: Guid(e02b40ef0045d024f907161c18aea5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Materials/!Seri Zagotovka.mat using Guid(e02b40ef0045d024f907161c18aea5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78f849ebac7ae68155ebb0a89659075a') in 0.044076 seconds
+  Import took 0.047830 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 46.857578 seconds.
-  path: Assets/obj/Materials/VerhNapr.mat
-  artifactKey: Guid(c057adc7ccff4f448b2da72e85faf87f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/obj/Materials/VerhNapr.mat using Guid(c057adc7ccff4f448b2da72e85faf87f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '251e17fb967110ca421addf114871ce8') in 0.196958 seconds
-  Import took 0.199844 seconds .
+  Time since last request: 0.001809 seconds.
+  path: Assets/obj/Materials/!Seri Zagotovka.mat
+  artifactKey: Guid(e02b40ef0045d024f907161c18aea5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Materials/!Seri Zagotovka.mat using Guid(e02b40ef0045d024f907161c18aea5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78f849ebac7ae68155ebb0a89659075a') in 0.053807 seconds
+  Import took 0.056006 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 40.8 MB.
+System memory in use after: 40.9 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1681.
+Total: 2.328500 ms (FindLiveObjects: 0.154200 ms CreateObjectMapping: 0.037800 ms MarkObjects: 2.121400 ms  DeleteObjects: 0.013700 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 40.8 MB.
+System memory in use after: 40.9 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1681.
+Total: 2.126500 ms (FindLiveObjects: 0.161900 ms CreateObjectMapping: 0.039100 ms MarkObjects: 1.909200 ms  DeleteObjects: 0.015100 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 52.488098 seconds.
-  path: Assets/obj/Materials/RuchkaSnizu Videl.mat
-  artifactKey: Guid(917fa8894390e624f951fb95b740e585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/obj/Materials/RuchkaSnizu Videl.mat using Guid(917fa8894390e624f951fb95b740e585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c6c6156b497ceadbe19f29797815aef') in 0.043348 seconds
-  Import took 0.045356 seconds .
+  Time since last request: 474.029387 seconds.
+  path: Assets/obj/Materials/!Seri Zagotovka.mat
+  artifactKey: Guid(e02b40ef0045d024f907161c18aea5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/obj/Materials/!Seri Zagotovka.mat using Guid(e02b40ef0045d024f907161c18aea5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d68ece8d4543960688be37eacf82fe9') in 0.062171 seconds
+  Import took 0.065077 seconds .
 
 ========================================================================
 Received Prepare
 Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 39.9 MB.
-System memory in use after: 40.1 MB.
+System memory in use before: 40.8 MB.
+System memory in use after: 40.9 MB.
 
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1671.
-Total: 2.443600 ms (FindLiveObjects: 0.128700 ms CreateObjectMapping: 0.034900 ms MarkObjects: 2.264300 ms  DeleteObjects: 0.014200 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 39.9 MB.
-System memory in use after: 40.1 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1671.
-Total: 2.536600 ms (FindLiveObjects: 0.278700 ms CreateObjectMapping: 0.053100 ms MarkObjects: 2.183100 ms  DeleteObjects: 0.019900 ms)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1681.
+Total: 2.554200 ms (FindLiveObjects: 0.217100 ms CreateObjectMapping: 0.044700 ms MarkObjects: 2.275200 ms  DeleteObjects: 0.015800 ms)
 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 39.9 MB.
-System memory in use after: 40.1 MB.
+System memory in use before: 40.8 MB.
+System memory in use after: 40.9 MB.
 
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1671.
-Total: 2.221800 ms (FindLiveObjects: 0.132000 ms CreateObjectMapping: 0.033400 ms MarkObjects: 2.043900 ms  DeleteObjects: 0.011100 ms)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1681.
+Total: 3.307800 ms (FindLiveObjects: 0.154000 ms CreateObjectMapping: 0.041600 ms MarkObjects: 3.092900 ms  DeleteObjects: 0.016900 ms)
 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 39.9 MB.
-System memory in use after: 40.1 MB.
+System memory in use before: 40.8 MB.
+System memory in use after: 40.9 MB.
 
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1671.
-Total: 2.229800 ms (FindLiveObjects: 0.142800 ms CreateObjectMapping: 0.038600 ms MarkObjects: 2.030700 ms  DeleteObjects: 0.015500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 1009.345019 seconds.
-  path: Assets/Scenes/Rezba5.unity
-  artifactKey: Guid(a93c071cb29717c4aae081c19a37ed66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba5.unity using Guid(a93c071cb29717c4aae081c19a37ed66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19905c44550188542515e813946266bc') in 0.006489 seconds
-  Import took 0.009036 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 1.03 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.0 MB.
-System memory in use after: 40.1 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1671.
-Total: 2.711300 ms (FindLiveObjects: 0.188800 ms CreateObjectMapping: 0.053100 ms MarkObjects: 2.452400 ms  DeleteObjects: 0.015200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 240.276549 seconds.
-  path: Assets/Scenes/Rezez.unity
-  artifactKey: Guid(a14cba9aa34709f4f8eb69149ce21553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezez.unity using Guid(a14cba9aa34709f4f8eb69149ce21553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c19739f81a36db5ec87a89c7cc72e34c') in 0.021976 seconds
-  Import took 0.024496 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.0 MB.
-System memory in use after: 40.1 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1671.
-Total: 2.695600 ms (FindLiveObjects: 0.126600 ms CreateObjectMapping: 0.105700 ms MarkObjects: 2.446900 ms  DeleteObjects: 0.014900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 1002.597126 seconds.
-  path: Assets/New Render Texture.renderTexture
-  artifactKey: Guid(2462ab17bb944f541ae008a8dd103497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Render Texture.renderTexture using Guid(2462ab17bb944f541ae008a8dd103497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '331ac9431dd05e5e5f3b2691862cd82f') in 0.038290 seconds
-  Import took 0.040667 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 133.765717 seconds.
-  path: Assets/MiniCamera.renderTexture
-  artifactKey: Guid(2462ab17bb944f541ae008a8dd103497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MiniCamera.renderTexture using Guid(2462ab17bb944f541ae008a8dd103497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4148217ec52508000b22ed13d9a23e2') in 0.029576 seconds
-  Import took 0.032343 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.0 MB.
-System memory in use after: 40.2 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1674.
-Total: 2.597200 ms (FindLiveObjects: 0.346900 ms CreateObjectMapping: 0.065900 ms MarkObjects: 2.170900 ms  DeleteObjects: 0.012500 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.0 MB.
-System memory in use after: 40.2 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1674.
-Total: 5.489400 ms (FindLiveObjects: 0.130700 ms CreateObjectMapping: 0.036200 ms MarkObjects: 5.307600 ms  DeleteObjects: 0.013300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 254.535609 seconds.
-  path: Assets/MiniCamera.renderTexture
-  artifactKey: Guid(2462ab17bb944f541ae008a8dd103497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MiniCamera.renderTexture using Guid(2462ab17bb944f541ae008a8dd103497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ee4d291e5edbd8c6aeb5e25f98bfc5') in 0.028837 seconds
-  Import took 0.033824 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.1 MB.
-System memory in use after: 40.2 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1674.
-Total: 10.208200 ms (FindLiveObjects: 0.134300 ms CreateObjectMapping: 0.038600 ms MarkObjects: 10.020000 ms  DeleteObjects: 0.013900 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.1 MB.
-System memory in use after: 40.2 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1674.
-Total: 1.800900 ms (FindLiveObjects: 0.125800 ms CreateObjectMapping: 0.034400 ms MarkObjects: 1.625500 ms  DeleteObjects: 0.013300 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 1.70 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.1 MB.
-System memory in use after: 40.2 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1674.
-Total: 5.255200 ms (FindLiveObjects: 0.204500 ms CreateObjectMapping: 0.081700 ms MarkObjects: 4.935300 ms  DeleteObjects: 0.032000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 529.636346 seconds.
-  path: Assets/Scenes/Rezba.unity
-  artifactKey: Guid(f2621ffbd76f0a346994ec8612c8c450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba.unity using Guid(f2621ffbd76f0a346994ec8612c8c450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b442dd1eaf4fa2f154702b2d6cc3c52') in 0.020901 seconds
-  Import took 0.024664 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 1.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.1 MB.
-System memory in use after: 40.2 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1674.
-Total: 8.770200 ms (FindLiveObjects: 0.192000 ms CreateObjectMapping: 0.118700 ms MarkObjects: 8.446400 ms  DeleteObjects: 0.012000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 105.193770 seconds.
-  path: Assets/Scenes/Rezba2.unity
-  artifactKey: Guid(6fd9e1a0576034547a82e23f20651e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba2.unity using Guid(6fd9e1a0576034547a82e23f20651e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1071422f72c8cfcfd9440377936c6fa') in 0.015860 seconds
-  Import took 0.018310 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 71.333624 seconds.
-  path: Assets/obj/Materials/VerhNapr Videl.mat
-  artifactKey: Guid(f0aec2bc11eef0c44b52eb36b3d01c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/obj/Materials/VerhNapr Videl.mat using Guid(f0aec2bc11eef0c44b52eb36b3d01c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acf74e8478ee013473602e0b66eb5a2e') in 0.055300 seconds
-  Import took 0.057746 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 107.134433 seconds.
-  path: Assets/obj/Materials/VerhMel Videl.mat
-  artifactKey: Guid(752340819daeecf48ad26694e9178883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/obj/Materials/VerhMel Videl.mat using Guid(752340819daeecf48ad26694e9178883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d819bc5153590219840fa1b836d1d8a') in 0.032559 seconds
-  Import took 0.035134 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.1 MB.
-System memory in use after: 40.2 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1674.
-Total: 2.812000 ms (FindLiveObjects: 0.126000 ms CreateObjectMapping: 0.034400 ms MarkObjects: 2.634300 ms  DeleteObjects: 0.016300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 120.450060 seconds.
-  path: Assets/Scenes/Rezba.unity
-  artifactKey: Guid(f2621ffbd76f0a346994ec8612c8c450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba.unity using Guid(f2621ffbd76f0a346994ec8612c8c450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec3924838a08bf557ee0b4a1d91c7daf') in 0.006799 seconds
-  Import took 0.009678 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.650937 seconds.
-  path: Assets/Scenes/Rezba2.unity
-  artifactKey: Guid(6fd9e1a0576034547a82e23f20651e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba2.unity using Guid(6fd9e1a0576034547a82e23f20651e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32206533ea5f11b6c9ac49280be9309') in 0.012898 seconds
-  Import took 0.015926 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.539964 seconds.
-  path: Assets/Scenes/Rezba3.unity
-  artifactKey: Guid(03cb6546fcc436244bcdb2512f38f128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba3.unity using Guid(03cb6546fcc436244bcdb2512f38f128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f29b48863f3486cbf0b712f1eefdd46') in 0.015918 seconds
-  Import took 0.020889 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 40.573567 seconds.
-  path: Assets/Scenes/Rezba3.unity
-  artifactKey: Guid(03cb6546fcc436244bcdb2512f38f128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba3.unity using Guid(03cb6546fcc436244bcdb2512f38f128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53840b90f60f38a908b56e4e0876e0c7') in 0.005924 seconds
-  Import took 0.007821 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.1 MB.
-System memory in use after: 40.2 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1674.
-Total: 2.329000 ms (FindLiveObjects: 0.136100 ms CreateObjectMapping: 0.037400 ms MarkObjects: 2.141600 ms  DeleteObjects: 0.012200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 177.239422 seconds.
-  path: Assets/Scenes/Rezba5.unity
-  artifactKey: Guid(a93c071cb29717c4aae081c19a37ed66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba5.unity using Guid(a93c071cb29717c4aae081c19a37ed66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a499dbc93256df88c58a52efad2b0fff') in 0.007159 seconds
-  Import took 0.010521 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.791488 seconds.
-  path: Assets/Scenes/Rezba3.unity
-  artifactKey: Guid(03cb6546fcc436244bcdb2512f38f128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba3.unity using Guid(03cb6546fcc436244bcdb2512f38f128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2501fa1e97747390c586e5f2696d2c3') in 0.005293 seconds
-  Import took 0.007238 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 95.788159 seconds.
-  path: Assets/Scenes/Rezba4.unity
-  artifactKey: Guid(765c1ad67bd5e10429050e4e7641b71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba4.unity using Guid(765c1ad67bd5e10429050e4e7641b71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba2d8f9ff8ac757c236b709b99020ebf') in 0.004726 seconds
-  Import took 0.007367 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.087399 seconds.
-  path: Assets/Scenes/Rezba5.unity
-  artifactKey: Guid(a93c071cb29717c4aae081c19a37ed66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba5.unity using Guid(a93c071cb29717c4aae081c19a37ed66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd94210084c84885a7713a732119ed4') in 0.003762 seconds
-  Import took 0.009994 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2.80 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.1 MB.
-System memory in use after: 40.2 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1674.
-Total: 2.121500 ms (FindLiveObjects: 0.208300 ms CreateObjectMapping: 0.046000 ms MarkObjects: 1.853600 ms  DeleteObjects: 0.012600 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.1 MB.
-System memory in use after: 40.2 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1674.
-Total: 2.598400 ms (FindLiveObjects: 0.157100 ms CreateObjectMapping: 0.044500 ms MarkObjects: 2.380400 ms  DeleteObjects: 0.014900 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.1 MB.
-System memory in use after: 40.2 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1674.
-Total: 2.346000 ms (FindLiveObjects: 0.167800 ms CreateObjectMapping: 0.044100 ms MarkObjects: 2.112600 ms  DeleteObjects: 0.019300 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.1 MB.
-System memory in use after: 40.2 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1674.
-Total: 2.597500 ms (FindLiveObjects: 0.140300 ms CreateObjectMapping: 0.042700 ms MarkObjects: 2.400800 ms  DeleteObjects: 0.012700 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.1 MB.
-System memory in use after: 40.2 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1674.
-Total: 2.243600 ms (FindLiveObjects: 0.242900 ms CreateObjectMapping: 0.056900 ms MarkObjects: 1.926600 ms  DeleteObjects: 0.015300 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.1 MB.
-System memory in use after: 40.2 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1674.
-Total: 2.889500 ms (FindLiveObjects: 0.383300 ms CreateObjectMapping: 0.081700 ms MarkObjects: 2.406900 ms  DeleteObjects: 0.016000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 1221.420593 seconds.
-  path: Assets/Scenes/Rezba.unity
-  artifactKey: Guid(f2621ffbd76f0a346994ec8612c8c450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba.unity using Guid(f2621ffbd76f0a346994ec8612c8c450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3a0e0bbaa95b13fc96bd52aec9b03dc') in 0.005319 seconds
-  Import took 0.007732 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.178629 seconds.
-  path: Assets/Scenes/Rezba2.unity
-  artifactKey: Guid(6fd9e1a0576034547a82e23f20651e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Rezba2.unity using Guid(6fd9e1a0576034547a82e23f20651e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39b8eab5f544ba94d134a79c1823c955') in 0.014290 seconds
-  Import took 0.017886 seconds .
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1681.
+Total: 3.513200 ms (FindLiveObjects: 0.252300 ms CreateObjectMapping: 0.087700 ms MarkObjects: 3.099800 ms  DeleteObjects: 0.072200 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

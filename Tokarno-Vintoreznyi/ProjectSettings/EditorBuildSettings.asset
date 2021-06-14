@@ -101,4 +101,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ZagotovkaRezba.unity
     guid: 7300520a7afa61849944c61dd1a4fe05
+  - enabled: 1
+    path: Assets/Scenes/ZagotovkaRezba0.unity
+    guid: af167ca1a64c2fd4189b0e3d9a7ae5fa
+  - enabled: 1
+    path: Assets/Scenes/ZagotovkaRezba01.unity
+    guid: 9b215d1bc5f8dba4287f3015e0a83b73
+  - enabled: 1
+    path: Assets/Scenes/ZagotovkaRezba1.unity
+    guid: 1a32f5fdca167a94bb1d41873ccc3b5b
+  - enabled: 1
+    path: Assets/Scenes/ZagotovkaRezba02.unity
+    guid: 4c7762f7f546f0f48a586d4ab059d36b
+  - enabled: 1
+    path: Assets/Scenes/ZagotovkaRezba2.unity
+    guid: 62208c794b9cd9e4ba20cacefcbb5f79
+  - enabled: 1
+    path: Assets/Scenes/ZagotovkaRezba03.unity
+    guid: 7df04e557b91a1245a8434e1decfb394
+  - enabled: 1
+    path: Assets/Scenes/ZagotovkaRezba3.unity
+    guid: 2936beb1b56c921488fd44e177c761b6
   m_configObjects: {}

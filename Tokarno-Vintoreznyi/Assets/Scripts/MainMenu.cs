@@ -93,6 +93,34 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("ZagotovkaRezba");
     }
+    public void ZagotovkaRezba0Pressed()
+    {
+        SceneManager.LoadScene("ZagotovkaRezba0");
+    }
+    public void ZagotovkaRezba01Pressed()
+    {
+        SceneManager.LoadScene("ZagotovkaRezba01");
+    }
+    public void ZagotovkaRezba02Pressed()
+    {
+        SceneManager.LoadScene("ZagotovkaRezba02");
+    }
+    public void ZagotovkaRezba03Pressed()
+    {
+        SceneManager.LoadScene("ZagotovkaRezba03");
+    }
+    public void ZagotovkaRezbaPressed1()
+    {
+        SceneManager.LoadScene("ZagotovkaRezba1");
+    }
+    public void ZagotovkaRezbaPressed2()
+    {
+        SceneManager.LoadScene("ZagotovkaRezba2");
+    }
+    public void ZagotovkaRezbaPressed3()
+    {
+        SceneManager.LoadScene("ZagotovkaRezba3");
+    }
     public void GitaraPressed()
     {
         SceneManager.LoadScene("Smenahesterenok");
