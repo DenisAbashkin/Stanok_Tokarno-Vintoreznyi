@@ -4,17 +4,12 @@ using UnityEngine;
 
 public class InputControl : MonoBehaviour
 {
-
     public GameObject cameraOrbit;
-
     public float rotateSpeed = 8f;
-    // Start is called before the first frame update
     void Start()
     {
 
     }
-
-    // Update is called once per frame
     void Update()
     {
         if (Input.GetMouseButton(0))
@@ -31,9 +26,7 @@ public class InputControl : MonoBehaviour
                 cameraOrbit.transform.eulerAngles.y + width,
                 cameraOrbit.transform.eulerAngles.z + height);
         }
-
         float scrollFactor = Input.GetAxis("Mouse ScrollWheel");
-
         if (scrollFactor != 0)
         {
             cameraOrbit.transform.localScale = cameraOrbit.transform.localScale * (1f - scrollFactor);

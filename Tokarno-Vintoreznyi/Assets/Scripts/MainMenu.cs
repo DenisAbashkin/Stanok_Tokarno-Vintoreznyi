@@ -117,9 +117,17 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("ZagotovkaRezba2");
     }
+    public void ZagotovkaRezbaPressed25()
+    {
+        SceneManager.LoadScene("ZagotovkaRezba25");
+    }
     public void ZagotovkaRezbaPressed3()
     {
         SceneManager.LoadScene("ZagotovkaRezba3");
+    }
+    public void ZagotovkaRezbaPressed4()
+    {
+        SceneManager.LoadScene("ZagotovkaRezba4");
     }
     public void GitaraPressed()
     {
@@ -141,6 +149,10 @@ public class MainMenu : MonoBehaviour
     public void TechObslugaPressed()
     {
         SceneManager.LoadScene("MenuTexObsluga");
+    }
+    public void TablicaGrafPressed()
+    {
+        SceneManager.LoadScene("TablicaGraf");
     }
     public void UpravlenieShpindelem()
     {

@@ -9,7 +9,7 @@ public class CylinderGenerateScript : MonoBehaviour
     //the outside radius must lager than the inside one
     [Range(0, 100)] public float innerRadius;
     [Range(1, 100)] public float outsideRadius;
-    public int blockCounts = 80;          //how many blocks that the obj will be split into?
+    public int blockCounts = 80;          
     public float height = 10;             //the height of the obj.
 
 
